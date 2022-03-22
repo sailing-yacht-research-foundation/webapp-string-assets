@@ -45,7 +45,7 @@
         "are_you_sure_you_want_to_mark_this_race_as_completed": "Are you sure you want to mark this race as completed?",
         "this_race_will_be_marked_as_completed_are_you_sure_you_want_to_continue": "This race will be marked as completed, are you sure you want to continue?",
         "are_you_sure_you_want_to_force_delete_this_race": "Are you sure you want to force delete this race?",
-        "this_race_will_be_deleted_are_you_sure_you_want_to_continue": "This race will be deleted, are you sure you want to continue?"
+        "this_race_will_be_deleted_are_you_sure_you_want_to_continue": "This race will be deleted, are you sure you sure you want to continue?"
       }
     },
     "search_performed_no_result_found": "Searched for {{keyword}}, no result found.",
@@ -198,7 +198,6 @@
   "profile_page": {
     "update_profile": {
       "email": "Email",
-      "name": "Name",
       "phone_number": "Phone Number",
       "address": "Address",
       "date_of_birth": "Date of Birth",
@@ -274,7 +273,7 @@
       "are_you_sure_you_want_to_remove_passport_photo": "Are you sure you want to remove passport photo?",
       "remove": "Remove",
       "notifications": "Notifications",
-      "email_notification_settings": "Email Notification Settings",
+   	  "email_notification_settings": "Email Notification Settings",
       "mobile_notification_settings": "Mobile Notification Settings",
       "browser_notification_settings": "Browser Notification Settings",
       "persistent_notification_settings": "Persistent Notification Settings",
@@ -368,13 +367,12 @@
     "watch_without_app_installation": "doesn’t let mobile users watch their races without installing their app.",
     "next_time": "Next time, use SYRF’s LivePing app for universal, mobile friendly race tracking and playback.",
     "live_ping_lets_viewers": "LivePing lets viewers watch the race from their browser, and is the only tracking app to #StopThePingParade.",
-    "name": "Name",
     "go_back": "Go back",
     "competitor_joined": "Competitor {{competitor_name}} with boat {{boat_name}} joined the race.",
     "boat_left_the_race": "Boat {{boat_name}} left the race.",
     "event": "Event: "
   },
-  "app": {
+  "general": {
     "your_session_is_expired": "Your session is expired, please login again.",
     "error_happened": "Service is unavailable",
     "our_service_is_temporary_unavailable_at_the_moment": "Our service is temporary unavailable at the moment.",
@@ -391,6 +389,25 @@
     "code_is_required": "Code is required and must be a 6-digit number.",
     "block": "Block",
     "unblock": "Unblock",
+    "delete": "Delete",
+    "action": "Action",
+    "name": "Name",
+    "create": "Create",
+    "created_date": "Created Date",
+    "update": "Update",
+    "admins": "Admins",
+    "event_not_found": "Event not found!",
+    "start_date": "Start Date",
+    "agree": "Agree",
+    "country": "Country",
+    "download": "Download",
+    "location": "Location",
+    "start_time": "Start Time",
+    "status": "Status",
+    "event_name":"Event Name",
+    "yes": "Yes",
+    "no": "No",
+    "public_name": "Public Name",
     "your_action_is_successful": "You action is successful."
   },
   "data_page": {
@@ -409,13 +426,9 @@
   "my_event_list_page": {
     "you_dont_have_any_event": "You do not have any events at the moment, please create one.",
     "you_dont_have_any_invitation": "You don't have any invitation.",
-    "name": "Name",
     "location": "Location",
     "start_date": "Start Date",
     "created_date": "Created Date",
-    "action": "Action",
-    "update": "Update",
-    "delete": "Delete",
     "my_events": "My Events",
     "my_races": "My Races",
     "create_a_new_event": "Create A New Event",
@@ -447,15 +460,9 @@
     "successfully_rejected_this_invitation": "Successfully rejected this invitation."
   },
   "competition_unit_list_page": {
-    "name": "Name",
     "location": "Location",
     "start_date": "Start Date",
-    "created_date": "Created Date",
-    "action": "Action",
-    "update": "Update",
-    "delete": "Delete",
     "competition_units": "Races",
-    "create": "Create",
     "start_time": "Start Time",
     "approximate_start": "Approximate Start",
     "you_dont_have_any_competition_unit": "You don't have any races, please create one.",
@@ -469,8 +476,6 @@
     "created_a_new_competition_unit": "Created a new race with name: {{name}}.",
     "successfully_updated_competition_unit": "Successfully updated your race: {{name}}",
     "view_all_competition_units": "View all",
-    "delete": "Delete",
-    "name": "Name",
     "event_id": "Event Id",
     "start_date": "Start Date",
     "start_time": "Start Time",
@@ -504,8 +509,6 @@
     "update_your_event": "Update Your Event",
     "create_a_new_event": "Create A New Event",
     "view_all": "View all",
-    "delete": "Delete",
-    "name": "Name",
     "location_name": "Location Name",
     "start_date": "Start Date",
     "start_time": "Start Time",
@@ -559,7 +562,7 @@
     "cancel_event": "Cancel Event",
     "publish": "Publish",
     "publish_this_event": "Publish This Event",
-    "once_you_publish_this_event_you": "Once you publish an event it becomes visible to everyone. You can still change the event information, but you can not hide the event. You are about to make the event name, start time and starting and ending locations visible to the entire internet. Please ensure you have not accidentally used your home address as the start or end location for this event.",
+    "once_you_publish_this_event_you": "Once you publish an event it becomes visible to everyone. You can still make changes but you will not be able to delete the event.",
     "invite_competitors": "Invite competitors",
     "search_for_competitors": "Search for competitors",
     "stop_this_race": "Stop this race",
@@ -595,16 +598,8 @@
     "make_public": "Make Public"
   },
   "course_list": {
-    "name": "Name",
     "course": "Course",
-    "create": "Create",
-    "update": "Update",
-    "created_date": "Created Date",
-    "has_geometry": "Has Geometry",
-    "yes": "Yes",
-    "no": "No",
-    "action": "Action",
-    "delete": "Delete"
+    "has_geometry": "Has Geometry"
   },
   "delete_event_modal": {
     "successfully_deleted": "Successfully deleted event {{name}}",
@@ -659,18 +654,12 @@
     },
     "create_a_new_course": "Create a new course",
     "update_course": "Update course",
-    "delete": "Delete",
     "creating_a_start_line": "Creating a start line will #StopThePingParade.",
     "event_not_found": "Event not found!",
     "course_not_found": "Course not found!"
   },
   "vessel_list_page": {
-    "public_name": "Public Name",
     "length_in_meters": "Length In Meters",
-    "created_date": "Created Date",
-    "create": "Create",
-    "update": "Update",
-    "delete": "Delete",
     "you_dont_have_any_vessels": "You do not have any boats, please create one.",
     "vessels": "My Boats",
     "create_a_new_vessel": "Create A New Boat",
@@ -688,8 +677,6 @@
     "created_a_new_vessel": "Created a new boat with name: {{name}}.",
     "successfully_updated_vessel": "Successfully updated your boat: {{name}}",
     "view_all_vessels": "View all",
-    "delete": "Delete",
-    "public_name": "Name",
     "global_id": "Global ID",
     "vessel_id": "Vessel ID",
     "length_in_meters": "Length In Meters",
@@ -759,9 +746,6 @@
     "participants": "Competitors",
     "create": "Create",
     "participant_id": "Participant ID",
-    "delete": "Delete",
-    "update": "Update",
-    "public_name": "Public Name",
     "action": "Action",
     "assign": "Assign",
     "tracker_url": "Tracker URL",
@@ -786,8 +770,6 @@
     "created_a_new_participant": "Created a new competitor with name: {{name}}.",
     "successfully_updated_participant": "Successfully updated your competitor: {{name}}",
     "back_to_race": "Back to race",
-    "delete": "Delete",
-    "public_name": "Name",
     "participant_id": "competitor ID",
     "save_participant": "Save Competitor",
     "update_participant": "Update Competitor",
@@ -799,7 +781,6 @@
     "created_a_new_group": "Created a new class with name",
     "successfully_updated_group": "Successfully class",
     "view_all_groups": "View all classes",
-    "delete": "Delete",
     "name": "Class Name",
     "save_group": "Save Class",
     "update_group": "Update Class",
@@ -812,10 +793,6 @@
     "member_of_classes_regattas": "Members of classes/regattas are scored against each other and go around the same course at the same time. They can be used for classes, regattas, divisions or boats using the same handicap methodology."
   },
   "vessel_participant_group_list_page": {
-    "created_date": "Created Date",
-    "action": "Action",
-    "update": "Update",
-    "delete": "Delete",
     "vessel_participant_groups": "Classes",
     "create": "Create",
     "you_dont_have_any_vessel_participant_group": "You don't have any classes, please create one.",
@@ -854,9 +831,7 @@
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
-    "name": "Name",
     "type": "Type",
-    "created_date": "Created Date",
     "track_now": "Track Now",
     "event_track": "Event Track",
     "you_dont_have_any_tracks": "You don't have any tracks. Start tracking by using our app.",
@@ -975,7 +950,7 @@
     "integrations_page": "Integrations page",
     "your_interests": "Your interests",
     "event_types": "Select an event type",
-    "super_admin_options": "Super Admin Options"
+      "super_admin_options": "Super Admin Options"
   },
   "forms": {
     "first_name_is_required": "First name is required.",
