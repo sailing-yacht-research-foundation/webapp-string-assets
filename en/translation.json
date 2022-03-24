@@ -179,7 +179,8 @@
       "discover_friends": "Discover Friends",
       "my_profile": "My Profile",
       "integrations": "Integrations",
-      "settings": "Settings"
+      "settings": "Settings",
+      "subscription": "Subscription"
     },
     "app_connection": "App Connections",
     "organizational_membership": "Organizational Memberships",
@@ -289,7 +290,8 @@
       "user_invited_to_regatta": "User Invited To Regatta",
       "ocs_detected": "OCS Detected",
       "race_starts_soon": "Race Starts Soon",
-      "new_race_added_to_event": "New Race Added To Event"
+      "new_race_added_to_event": "New Race Added To Event",
+      "subscription": "Subscription"
     },
     "successfully_linked_your_instagram_account": "Successfully linked your Instagram account!",
     "successfully_linked_your_facebook_account": "Successfully linked your Facebook account!"
@@ -408,7 +410,9 @@
     "yes": "Yes",
     "no": "No",
     "public_name": "Public Name",
-    "your_action_is_successful": "You action is successful."
+    "your_action_is_successful": "You action is successful.",
+    "cancel":"Cancel",
+    "upgrade": "Upgrade"
   },
   "data_page": {
     "syrf_race_data": "SYRF Race Data",
@@ -1218,5 +1222,20 @@
     "open_notification_center": "Open Notification Center",
     "see_more": "See more",
     "you_dont_have_any_notifications": "You don't have any notifications."
+  },
+  "subscription_page": {
+    "plans": "Plans",
+    "customer_portal": "Customer Portal",
+    "customer_portal_is_where": "Customer portal is where you can see your purchase history, current active plan, payment methods and manage subscription.",
+    "switching_plan_preview": "Switching Plan Preview",
+    "subtotal": "Subtotal:",
+    "total": "Total:",
+    "next_payment_attempt": "Next Payment Attempt:",
+    "subscription_proration_date": "Subscription Proration Date:",
+    "we_dont_have_any_plans_right_now": "We don't have any plans right now.",
+    "are_you_sure_you_want_to_cancel_subscription": "Are you sure you want to cancel subscription?",
+    "cancel_subscription": "Cancel Subscription",
+    "go_to_my_portal": "Go To My Portal",
+    "your_subscription_will_be_cancelled_at_the_period_end": "Your subscription will be cancelled at the period end."
   }
 }
