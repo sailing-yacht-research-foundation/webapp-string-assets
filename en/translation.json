@@ -1236,6 +1236,7 @@
     "are_you_sure_you_want_to_cancel_subscription": "Are you sure you want to cancel subscription?",
     "cancel_subscription": "Cancel Subscription",
     "go_to_my_portal": "Go To My Portal",
-    "your_subscription_will_be_cancelled_at_the_period_end": "Your subscription will be cancelled at the period end."
+    "your_subscription_will_be_cancelled_at_the_period_end": "Your subscription will be cancelled at the period end.",
+    "expire_at": "Expire At:"
   }
 }
