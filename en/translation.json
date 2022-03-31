@@ -412,7 +412,8 @@
     "public_name": "Public Name",
     "your_action_is_successful": "You action is successful.",
     "cancel":"Cancel",
-    "upgrade": "Upgrade"
+    "upgrade": "Upgrade",
+    "please_verify_your_email": "Please verify your email"
   },
   "data_page": {
     "syrf_race_data": "SYRF Race Data",
@@ -741,10 +742,12 @@
     "verify": "Verify",
     "please_check_you_phone_for_verification": "Please check your phone for verification.",
     "successfully_verified_phone_number": "Successfully verified your phone number.",
+    "successfully_verified_onboard_email": "Successfully verified your onboard email.",
     "created_a_new_liferaft": "Created a new liferaft.",
     "successfully_saved_liferaft": "Successfully saved liferaft.",
     "admins": "Admins",
-    "assign_for_all_group_member": "Assign for all group members?"
+    "assign_for_all_group_member": "Assign for all group members?",
+    "please_check_you_email_for_verification": "Please check your email for verification."
   },
   "participant_list": {
     "participants": "Competitors",
