@@ -413,7 +413,9 @@
     "your_action_is_successful": "You action is successful.",
     "cancel":"Cancel",
     "upgrade": "Upgrade",
-    "please_verify_your_email": "Please verify your email"
+    "please_verify_your_email": "Please verify your email",
+    "start": "Start",
+    "end": "End"
   },
   "data_page": {
     "syrf_race_data": "SYRF Race Data",
