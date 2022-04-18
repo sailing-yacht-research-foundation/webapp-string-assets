@@ -1152,7 +1152,15 @@
     "blocked": "Blocked",
     "accepted": "Accepted",
     "all": "All",
-    "invited": "Invited"
+    "invited": "Invited",
+    "it_appears_that_your_organization_has_not_connected_to_payout_click_here_to_set_it_up": "It appears that your organization has not connected to payout, please click \"Set Up\" to set up.",
+    "set_up": "Set Up",
+    "your_organization_payout_has_been_set_up": "Your organization payout has been set up.",
+    "your_organization_has_not_set_up_payout": "Your organization has not set up payout.",
+    "set_up_now": "Set Up Now",
+    "connected_information": "Connected Information",
+    "charges_enabled": "Charges Enabled",
+    "payout_enabled": "Payout Enabled"
   },
   "public_profile": {
     "people_you_may_know": "People you may know",
