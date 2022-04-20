@@ -727,7 +727,14 @@
     "last_service_date": "Last service date",
     "manufacture_date": "Manufacture Date",
     "ownership": "Ownership",
-    "pdf_documents": "PDF documents",
+    "equipment_manuals": "Equipment Manuals",
+    "radar": "Radar",
+    "instrument_system": "Instrument System",
+    "pactor_modem": "Pactor Modem",
+    "water_maker": "Water Maker",
+    "generator": "Generator",
+    "electrical_distribution_system": "Electrical Distribution System",
+    "engine": "Engine",
     "upload": "Upload",
     "download": "Download",
     "download_all": "Download All",
@@ -753,7 +760,8 @@
     "successfully_saved_liferaft": "Successfully saved liferaft.",
     "admins": "Admins",
     "assign_for_all_group_member": "Assign for all group members?",
-    "please_check_you_email_for_verification": "Please check your email for verification."
+    "please_check_you_email_for_verification": "Please check your email for verification.",
+    "upload_your_equipment_manuals_so_that_your_crews": "Upload your equipment manuals so that your crews can learn your systems."
   },
   "participant_list": {
     "participants": "Competitors",
