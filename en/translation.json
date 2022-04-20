@@ -596,7 +596,7 @@
     "is_crewed": "Is Crewed",
     "min_crew": "Min. Crews",
     "max_crew": "Max. Crews",
-    "require_covid_vaccination": "Require COVID Vaccination",
+    "require_proof_of_covid_vaccination": "Require proof of COVID vaccination",
     "require_certificates": "Require Certificates",
     "planning_organization": "Planning Organization",
     "pdf_documents":"PDF documents",
