@@ -416,7 +416,9 @@
     "upgrade": "Upgrade",
     "please_verify_your_email": "Please verify your email",
     "start": "Start",
-    "end": "End"
+    "end": "End",
+    "switch": "Switch",
+    "subscribe": "Subscribe"
   },
   "data_page": {
     "syrf_race_data": "SYRF Race Data",
