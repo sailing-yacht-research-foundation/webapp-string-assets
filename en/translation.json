@@ -417,7 +417,9 @@
     "please_verify_your_email": "Please verify your email",
     "start": "Start",
     "end": "End",
-    "live": "Live"
+    "live": "Live",
+    "switch": "Switch",
+    "subscribe": "Subscribe"
   },
   "data_page": {
     "syrf_race_data": "SYRF Race Data",
