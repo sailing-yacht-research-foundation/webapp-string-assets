@@ -848,7 +848,9 @@
     "share": "Share",
     "event_not_found": "Event not found!",
     "admins": "Admins",
-    "boats": "Boat participants for this event"
+    "boats": "Boat participants for this event",
+    "planning_organization": "Planning Organization",
+    "view_organiztion": "View Organization"
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
