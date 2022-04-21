@@ -1199,7 +1199,10 @@
     "successfully_blocked_user": "Successfully blocked {{userName}}.",
     "successfully_unblocked_user": "Successfully unblocked {{userName}}.",
     "are_you_sure_you_want_to_block": "Are you sure you want to block {{userName}}?",
-    "are_you_really_sure_you_want_to_block_user_they_will_no_longer_see_you_on_syrf_and": "Are you really sure you want to block {{userName}}, they will no longer be able to see you on SYRF."
+    "are_you_really_sure_you_want_to_block_user_they_will_no_longer_see_you_on_syrf_and": "Are you really sure you want to block {{userName}}, they will no longer be able to see you on SYRF.",
+    "interests": "Interests",
+    "groups_and_organizations": "Groups and Organizations",
+    "about": "About"
   },
   "credentail_manager_page": {
     "credentials": "Credentials",
