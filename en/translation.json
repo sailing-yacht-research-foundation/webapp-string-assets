@@ -858,7 +858,8 @@
     "send_to_some_of_the_competitors":"Send to some of the competitors",
     "message": "Message",
     "participants": "Competitors",
-    "successfully_delivered_your_message_to_the_competitors": "Successfully delivered your message to the competitor(s)"
+    "successfully_delivered_your_message_to_the_competitors": "Successfully delivered your message to the competitor(s)",
+    "please_invite_at_least_1_competitor_to_send_announcement": "Please invite at least 1 competitor to send announcement."
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
