@@ -291,7 +291,10 @@
       "ocs_detected": "OCS Detected",
       "race_starts_soon": "Race Starts Soon",
       "new_race_added_to_event": "New Race Added To Event",
-      "subscription": "Subscription"
+      "subscription": "Subscription",
+      "developer_option": "Developer Option",
+      "are_you_a_developer": "Are You a Developer?",
+      "developer_mode_activated_account_id": "Developer mode activated, account ID: {{developerId}}"
     },
     "successfully_linked_your_instagram_account": "Successfully linked your Instagram account!",
     "successfully_linked_your_facebook_account": "Successfully linked your Facebook account!"
