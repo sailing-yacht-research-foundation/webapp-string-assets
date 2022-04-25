@@ -850,7 +850,15 @@
     "admins": "Admins",
     "boats": "Boat participants for this event",
     "planning_organization": "Planning Organization",
-    "view_organiztion": "View Organization"
+    "view_organiztion": "View Organization",
+    "send_announcement": "Send Announcement",
+    "select_competitors": "Select Competitors",
+    "send_to_all_competitors": "Send to all competitors",
+    "send_to_some_of_the_competitors":"Send to some of the competitors",
+    "message": "Message",
+    "participants": "Competitors",
+    "successfully_delivered_your_message_to_the_competitors": "Successfully delivered your message to the competitor(s)",
+    "please_invite_at_least_1_competitor_to_send_announcement": "Please invite at least 1 competitor to send announcement."
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
