@@ -364,6 +364,8 @@
     "insecure_scraped_unfortunately": "Unfortunately",
     "insecure_scraped_thisrace": "THIS RACE",
     "insecure_scraped_nothttps": "does not use HTTPS, the standard way to protect users on the internet.",
+    "prevent_playing_on_iframe": "prevents playing races on iframe.",
+    "view_in_new_tab": "if you want to view their player in a new tab.",
     "insecure_scraped_clickhere": "Click here",
     "insecure_scraped_viewinsecureplayer": "if you want to view their insecure player in a new tab.",
     "countdown_timer_racewillstart": "Race will start in",
