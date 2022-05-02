@@ -320,7 +320,8 @@
     "change_password": "Change Password",
     "the_two_passwords_that_you_entered_do_not_match": "The two passwords that you entered do not match!",
     "password_changed_successfully": "Password changed successfully!",
-    "cannot_change_your_password_at_the_moment": "Cannot change your password at the moment."
+    "cannot_change_your_password_at_the_moment": "Cannot change your password at the moment.",
+    "current_password": "Current Password"
   },
   "forgot_password_page": {
     "confirmation_code_sent": "Confirmation code sent!",
