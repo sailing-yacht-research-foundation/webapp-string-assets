@@ -1007,7 +1007,7 @@
     "your_interests": "Your interests",
     "event_types": "Select an event type",
     "super_admin_options": "Super Admin Options",
-    "planning_organization_is_a_organization_has_connected_payout": "Planning organization is a organization group that has connected payout.",
+    "planning_organization_is_a_organization_has_connected_payout": "Planning organization is an organization group that has connected payout.",
     "click_to_move_to_participant_name": "Click to move to {{participantName}} location"
   },
   "forms": {
