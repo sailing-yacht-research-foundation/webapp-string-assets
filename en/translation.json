@@ -443,7 +443,8 @@
     "live": "Live",
     "switch": "Switch",
     "subscribe": "Subscribe",
-    "close": "Close"
+    "close": "Close",
+    "your_payment_has_been_successfully_completed": "Your payment has been successfully completed."
   },
   "data_page": {
     "syrf_race_data": "SYRF Race Data",
@@ -618,6 +619,7 @@
     "successfully_invited_your_participants_from_group": "Successfully invited {{numberOfCompetitors}} competitors from {{numberOfGroups}} group(s).",
     "event_type": "Event Type",
     "hashtag": "Hashtag",
+    "fee_paid_per_captain": "Fee Paid per captain.",
     "participanting_fee": "Participating Fee",
     "participanting_fee_type": "Participating Fee Type",
     "is_crewed": "Is Crewed",
@@ -633,7 +635,11 @@
     "keep_draft": "Keep Draft",
     "make_public": "Make Public",
     "send_an_announcement": "Send An Announcement",
-    "import_external_sources": "Import external sources such as competitors, races or classes from YachtScoring and other sources."
+    "import_external_sources": "Import external sources such as competitors, races or classes from YachtScoring and other sources.",
+    "free_or_paid": "Free or Paid?",
+    "free_event": "Free Event",
+    "paid_event" : "Paid Event",
+    "in_order_to_charge_for_your_events" : "In order to charge for events, you must associate an organization with a configured Stripe account."
   },
   "course_list": {
     "course": "Course",
@@ -812,7 +818,8 @@
     "are_you_sure_you_want_to_block_this_participant": "Are you sure you want to block this participant.",
     "successfully_blocked_this_participant": "Successfully blocked this participant.",
     "status": "Status",
-    "crew": "Crews"
+    "crew": "Crews",
+    "is_paid": "Is Paid" 
   },
   "participant_unit_create_update_page": {
     "created_a_new_participant": "Created a new competitor with name: {{name}}.",
@@ -885,7 +892,13 @@
     "message": "Message",
     "participants": "Competitors",
     "successfully_delivered_your_message_to_the_competitors": "Successfully delivered your message to the competitor(s)",
-    "please_invite_at_least_1_competitor_to_send_announcement": "Please invite at least 1 competitor to send announcement."
+    "please_invite_at_least_1_competitor_to_send_announcement": "Please invite at least 1 competitor to send announcement.",
+    "this_event_is_free_and_has_entrance_price_zero": "This event is free and has entrance price is zero",
+    "entrance_fee": "Entrance Fee:",
+    "free": "Free",
+    "hey_participant_name_this_event_has_participant_fee": "Hey {{participantName}}! This event has a participating fee of {{participatingFee}}, feel free to pay anytime!",
+    "you_already_paid_to_join_this_event": "You already paid for this event.",
+    "pay_now":"Pay Now"
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
