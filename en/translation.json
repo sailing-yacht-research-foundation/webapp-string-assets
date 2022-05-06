@@ -45,7 +45,8 @@
         "are_you_sure_you_want_to_mark_this_race_as_completed": "Are you sure you want to mark this race as completed?",
         "this_race_will_be_marked_as_completed_are_you_sure_you_want_to_continue": "This race will be marked as completed, are you sure you want to continue?",
         "are_you_sure_you_want_to_force_delete_this_race": "Are you sure you want to force delete this race?",
-        "this_race_will_be_deleted_are_you_sure_you_want_to_continue": "This race will be deleted, are you sure you sure you want to continue?"
+        "this_race_will_be_deleted_are_you_sure_you_want_to_continue": "This race will be deleted, are you sure you sure you want to continue?",
+        "watch_this_race": "Watch {{raceName}}"
       }
     },
     "search_performed_no_result_found": "Searched for {{keyword}}, no result found.",
@@ -274,7 +275,7 @@
       "are_you_sure_you_want_to_remove_passport_photo": "Are you sure you want to remove passport photo?",
       "remove": "Remove",
       "notifications": "Notifications",
-   	  "email_notification_settings": "Email Notification Settings",
+      "email_notification_settings": "Email Notification Settings",
       "mobile_notification_settings": "Mobile Notification Settings",
       "browser_notification_settings": "Browser Notification Settings",
       "persistent_notification_settings": "Persistent Notification Settings",
@@ -388,7 +389,14 @@
     "the_simulation_for_this_race_has_been_running": "The simulation for this race has been running.",
     "simulate_link": "you can <1>View it</1> on the playback or check out the event <2>here</2>",
     "simulate": "Simulate",
-    "simulate_success": "Simulate Success"
+    "simulate_success": "Simulate Success",
+    "leaderboard": "Leaderboard",
+    "no_participant": "No Participant",
+    "send_heart_to_participant": "Send heart to {{participantName}}",
+    "send_like_to_participant": "Send like to {{participantName}}",
+    "send_applause_to_participant": "Send applause to {{participantName}}",
+    "send_star_to_participant": "Send star to {{participantName}}",
+    "successfully_send_kudo_to_participant": "Sucessfully send kudos to {{participantName}}"
   },
   "general": {
     "your_session_is_expired": "Your session is expired, please login again.",
@@ -422,19 +430,20 @@
     "location": "Location",
     "start_time": "Start Time",
     "status": "Status",
-    "event_name":"Event Name",
+    "event_name": "Event Name",
     "yes": "Yes",
     "no": "No",
     "public_name": "Public Name",
     "your_action_is_successful": "You action is successful.",
-    "cancel":"Cancel",
+    "cancel": "Cancel",
     "upgrade": "Upgrade",
     "please_verify_your_email": "Please verify your email",
     "start": "Start",
     "end": "End",
     "live": "Live",
     "switch": "Switch",
-    "subscribe": "Subscribe"
+    "subscribe": "Subscribe",
+    "close": "Close"
   },
   "data_page": {
     "syrf_race_data": "SYRF Race Data",
@@ -496,7 +505,7 @@
     "race_configurations_pair_classes_to_courses": "Race configurations pair classes to courses.",
     "status": "Status",
     "stop": "Stop",
-    "start":"Start"
+    "start": "Start"
   },
   "competition_unit_create_update_page": {
     "created_a_new_competition_unit": "Created a new race with name: {{name}}.",
@@ -607,7 +616,7 @@
     "invite_groups_or_individual_by_searching_them": "Invite groups or individuals by searching them.",
     "successfully_invited_your_participants": "Successfully invited {{numberOfCompetitors}} competitors.",
     "successfully_invited_your_participants_from_group": "Successfully invited {{numberOfCompetitors}} competitors from {{numberOfGroups}} group(s).",
-    "event_type":"Event Type",
+    "event_type": "Event Type",
     "hashtag": "Hashtag",
     "participanting_fee": "Participating Fee",
     "participanting_fee_type": "Participating Fee Type",
@@ -617,13 +626,14 @@
     "require_proof_of_covid_vaccination": "Require proof of COVID vaccination",
     "require_certificates": "Require Certificates",
     "planning_organization": "Planning Organization",
-    "pdf_documents":"PDF documents",
-    "download_all":"Download All",
+    "pdf_documents": "PDF documents",
+    "download_all": "Download All",
     "download": "Download",
     "upload": "Upload",
     "keep_draft": "Keep Draft",
     "make_public": "Make Public",
-    "send_an_announcement": "Send An Announcement"
+    "send_an_announcement": "Send An Announcement",
+    "import_external_sources": "Import external sources such as competitors, races or classes from YachtScoring and other sources."
   },
   "course_list": {
     "course": "Course",
@@ -737,7 +747,7 @@
     "hulls_count_must_be_a_number": "Number of hulls must be a number.",
     "liferafts": "Liferafts",
     "add": "Add",
-    "serial_number":"Serial number",
+    "serial_number": "Serial number",
     "capacity": "Capacity",
     "manufacturer": "Manufacturer",
     "container": "Container",
@@ -871,7 +881,7 @@
     "send_announcement": "Send Announcement",
     "select_competitors": "Select Competitors",
     "send_to_all_competitors": "Send to all competitors",
-    "send_to_some_of_the_competitors":"Send to some of the competitors",
+    "send_to_some_of_the_competitors": "Send to some of the competitors",
     "message": "Message",
     "participants": "Competitors",
     "successfully_delivered_your_message_to_the_competitors": "Successfully delivered your message to the competitor(s)",
@@ -906,7 +916,8 @@
     "boat_name_for_the_track": "Boat Name for the Track",
     "select_existing_boats": "Select existing Boats",
     "create_a_new_boat": "Create a new Boat",
-    "use_default_track_name": "Use default Track Name"
+    "use_default_track_name": "Use default Track Name",
+    "watch_this_track": "Watch {{trackName}}"
   },
   "tip": {
     "search_for_races_using_different_criteria": "Search for races using different criteria.",
@@ -994,11 +1005,14 @@
     "import_event_data_from_other_source": "Import event data from other sources like YachtScoring,..",
     "add_liferaft": "Add a new liferaft for this vessel.",
     "delete_this_liferaft": "Delete this liferaft.",
+    "update_information_for_this_liferaft": "Update information for this liferaft.",
     "if_you_havent_linked_any_credentials": "If you haven't linked any credentials, you can go to this page to link your credential.",
     "integrations_page": "Integrations page",
     "your_interests": "Your interests",
     "event_types": "Select an event type",
-      "super_admin_options": "Super Admin Options"
+    "super_admin_options": "Super Admin Options",
+    "planning_organization_is_a_organization_has_connected_payout": "Planning organization is an organization group that has connected payout.",
+    "click_to_move_to_participant_name": "Click to move to {{participantName}} location"
   },
   "forms": {
     "first_name_is_required": "First name is required.",
