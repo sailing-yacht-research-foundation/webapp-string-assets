@@ -893,7 +893,8 @@
     "entrance_fee": "Entrance Fee:",
     "free": "Free",
     "hey_participant_name_this_event_has_participant_fee": "Hey {{participantName}}! This event has a participating fee of {{participatingFee}}, feel free to pay anytime!",
-    "you_already_paid_to_join_this_event": "You already paid for this event."
+    "you_already_paid_to_join_this_event": "You already paid for this event.",
+    "pay_now":"Pay Now"
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
