@@ -575,6 +575,7 @@
     "error_endtime_should_selected": "End time should be selected",
     "error_endtime_shouldgreater_starttime": "End time should be greater than start time",
     "error_starttime_shouldgreater_currenttime": "Start time should be greater than current time",
+    "error_starttime_should_be_less_than_end_time": "Start time should be less than end time",
     "successfully_revoked": "Successfully revoked.",
     "successfully_assigned_people_as_editor": "Successfully assigned this person as editor!",
     "select_a_state": "Select a state",
