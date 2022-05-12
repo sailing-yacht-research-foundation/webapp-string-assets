@@ -642,7 +642,8 @@
     "free_or_paid": "Free or Paid?",
     "free_event": "Free Event",
     "paid_event" : "Paid Event",
-    "in_order_to_charge_for_your_events" : "In order to charge for events, you must associate an organization with a configured Stripe account."
+    "in_order_to_charge_for_your_events" : "In order to charge for events, you must associate an organization with a configured Stripe account.",
+    "require_competitor_info": "Require Competitor Info"
   },
   "course_list": {
     "course": "Course",
