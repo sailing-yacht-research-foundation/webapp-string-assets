@@ -666,7 +666,9 @@
   "delete_vessel_modal": {
     "successfully_deleted": "Successfully deleted boat {{name}}",
     "are_you_sure_you_want_to_delete": "Are you sure you want to delete this boat?",
-    "you_will_delete": "You will delete this boat along with all associated information, are you sure you want to continue?"
+    "you_will_delete": "You will delete this boat along with all associated information, are you sure you want to continue?",
+    "cannot_delete_default_boat": "Cannot delete default boat!",
+    "you_cannot_not_delete_your_default_boat": "This is a default boat and you cannot delete it. Default boat is sometimes used for tracking or registering to a race if you have not added any other boats."
   },
   "delete_course_modal": {
     "successfully_deleted": "Successfully deleted course.",
