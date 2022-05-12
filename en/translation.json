@@ -941,7 +941,7 @@
     "host_a_new_event_with_races": "Host a new event with races.",
     "delete_event": "Delete this event along with all associated information.",
     "name_of_the_event": "Name of the event",
-    "event_description": "Event description, something like: Yacht racing is a sailing sport involving sailing yachts and larger sailboats,<br/> as distinguished from dinghy racing, which involves open boats.",
+    "event_description": "Event description, something like: Yacht racing is a sailing sport involving sailing yachts and larger sailboats, as distinguished from dinghy racing, which involves open boats.",
     "event_location": "Event location, you can either input the location by hand or choose a location by clicking on the map.",
     "event_location_start": "Start event location, you can either input the location by hand or choose a location by clicking on the map.",
     "event_location_end": "End event location, you can either input the location by hand or choose a location by clicking on the map.",
