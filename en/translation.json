@@ -935,7 +935,7 @@
     "create_a_new_boat": "Create a new Boat",
     "use_default_track_name": "Use default Track Name",
     "watch_this_track": "Watch {{trackName}}",
-    "phone_os": "PhoneOS",
+    "phone_os": "Phone OS",
     "phone_model": "Phone Model",
     "location_update_count": "Location Update Count"
   },
