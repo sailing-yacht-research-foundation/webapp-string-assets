@@ -294,8 +294,10 @@
       "new_race_added_to_event": "New Race Added To Event",
       "subscription": "Subscription",
       "developer_option": "Developer Option",
-      "are_you_a_developer": "Are You a Developer?",
-      "developer_mode_activated_account_id": "Developer mode activated, account ID: {{developerId}}"
+      "enable_developer_feature": "Enable Developer Features",
+      "developer_mode_activated_account_id": "Developer mode activated, account ID: {{developerId}}",
+      "developer_description": "Don’t forget to get your developer token by following the instructions in the developer documentation. You should also join our Discord group for support!” Discord group for support should be a link to this url:",
+      "visit_developer_documentation": "Visit Developer Documentation"
     },
     "successfully_linked_your_instagram_account": "Successfully linked your Instagram account!",
     "successfully_linked_your_facebook_account": "Successfully linked your Facebook account!"
