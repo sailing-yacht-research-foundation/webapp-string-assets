@@ -495,7 +495,8 @@
     "accepted_the_request": "Accepted the invitation request.",
     "are_you_sure_you_want_to_reject_this_invitation": "Are you sure you want to reject this invitation?",
     "reject_invitation": "Reject Invitation",
-    "successfully_rejected_this_invitation": "Successfully rejected this invitation."
+    "successfully_rejected_this_invitation": "Successfully rejected this invitation.",
+    "agree_to_share_information": "Agree to share information"
   },
   "competition_unit_list_page": {
     "location": "Location",
@@ -823,7 +824,8 @@
     "successfully_blocked_this_participant": "Successfully blocked this participant.",
     "status": "Status",
     "crew": "Crews",
-    "is_paid": "Is Paid" 
+    "is_paid": "Is Paid",
+    "export": "Export"
   },
   "participant_unit_create_update_page": {
     "created_a_new_participant": "Created a new competitor with name: {{name}}.",
@@ -1033,7 +1035,8 @@
     "event_types": "Select an event type",
     "super_admin_options": "Super Admin Options",
     "planning_organization_is_a_organization_has_connected_payout": "Planning organization is an organization group that has connected payout.",
-    "click_to_move_to_participant_name": "Click to move to {{participantName}} location"
+    "click_to_move_to_participant_name": "Click to move to {{participantName}} location",
+    "export_competitors_info_along_with_their_shared_information": "Export competitors` information along with their shared information to a CSV file."
   },
   "forms": {
     "first_name_is_required": "First name is required.",
