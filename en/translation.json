@@ -296,7 +296,7 @@
       "developer_option": "Developer Option",
       "enable_developer_feature": "Enable Developer Features",
       "developer_mode_activated_account_id": "Developer mode activated, account ID: {{developerId}}",
-      "developer_description": "Don’t forget to get your developer token by following the instructions in the developer documentation. You should also join our Discord group for support!” Discord group for support should be a link to this url:",
+      "developer_description": "Don’t forget to get your developer token by following the instructions in the developer documentation. You should also join our <a href='https://discord.com/invite/EfvufEsDua'>Discord group for support!</a> ",
       "visit_developer_documentation": "Visit Developer Documentation"
     },
     "successfully_linked_your_instagram_account": "Successfully linked your Instagram account!",
