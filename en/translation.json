@@ -294,8 +294,10 @@
       "new_race_added_to_event": "New Race Added To Event",
       "subscription": "Subscription",
       "developer_option": "Developer Option",
-      "are_you_a_developer": "Are You a Developer?",
-      "developer_mode_activated_account_id": "Developer mode activated, account ID: {{developerId}}"
+      "enable_developer_feature": "Enable Developer Features",
+      "developer_mode_activated_account_id": "Developer mode activated, account ID: {{developerId}}",
+      "developer_description": "Don’t forget to get your developer token by following the instructions in the developer documentation. You should also join our <a target='blank' href='https://discord.com/invite/EfvufEsDua'>Discord group for support!</a> ",
+      "visit_developer_documentation": "Visit Developer Documentation"
     },
     "successfully_linked_your_instagram_account": "Successfully linked your Instagram account!",
     "successfully_linked_your_facebook_account": "Successfully linked your Facebook account!"
@@ -668,7 +670,9 @@
   "delete_vessel_modal": {
     "successfully_deleted": "Successfully deleted boat {{name}}",
     "are_you_sure_you_want_to_delete": "Are you sure you want to delete this boat?",
-    "you_will_delete": "You will delete this boat along with all associated information, are you sure you want to continue?"
+    "you_will_delete": "You will delete this boat along with all associated information, are you sure you want to continue?",
+    "cannot_delete_default_boat": "Cannot delete default boat!",
+    "you_cannot_not_delete_your_default_boat": "This is a default boat and you cannot delete it. Default boat is sometimes used for tracking or registering to a race if you have not added any other boats."
   },
   "delete_course_modal": {
     "successfully_deleted": "Successfully deleted course.",
