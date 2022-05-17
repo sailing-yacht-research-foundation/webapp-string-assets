@@ -490,7 +490,7 @@
     "select_a_class": "Select a class",
     "please_select_a_class_to_join_this_event": "Please select a class to join this event.",
     "please_seelct_a_boat_to_join_this_event": "Please select a boat to join this event.",
-    "some_of_your_information_will_be_shared": "Some of your profile information will be shared with the event organizers.",
+    "some_of_your_information_will_be_shared": "Some of your profile information will be shared with the event organizers",
     "register_as_a_competitor": "Register as a competitor.",
     "yes": "Yes",
     "no": "No",
@@ -498,7 +498,13 @@
     "are_you_sure_you_want_to_reject_this_invitation": "Are you sure you want to reject this invitation?",
     "reject_invitation": "Reject Invitation",
     "successfully_rejected_this_invitation": "Successfully rejected this invitation.",
-    "agree_to_share_information": "Agree to share information"
+    "agree_to_share_information": "Agree to share information",
+    "emergency_contact": "Emergency Contact Information",
+    "covid_vaccination": "Covid Vaccination Information",
+    "medical_problems": "Medical Problems Information",
+    "food_allergies": "Food Allergies Information",
+    "immigration_info": "Immigration Information" ,
+    "is_paid_event": "Is Paid Event"
   },
   "competition_unit_list_page": {
     "location": "Location",
@@ -646,7 +652,10 @@
     "free_event": "Free Event",
     "paid_event" : "Paid Event",
     "in_order_to_charge_for_your_events" : "In order to charge for events, you must associate an organization with a configured Stripe account.",
-    "require_competitor_info": "Require Competitor Info"
+    "require_competitor_info": "Require Competitor Info",
+    "notice_of_race": "Notice Of Race",
+    "media_waiver": "Media waiver",
+    "disclaimer": "Dislaimer"
   },
   "course_list": {
     "course": "Course",
@@ -829,7 +838,25 @@
     "status": "Status",
     "crew": "Crews",
     "is_paid": "Is Paid",
-    "export": "Export"
+    "export": "Export",
+    "email": "Email",
+    "birth_date": "Birth Date",
+    "address": "Address",
+    "phone_number": "Phone Number",
+    "waiver_agreements": "Waiver Agreements",
+    "allow_to_share_information": "Allow to Share Information",
+    "has_covid_vaccination_card": "Has Covid vaccination card",
+    "emergency_contact_relationship" :"Emergency Contact Relationship",
+    "passportNumber": "Passport Number",
+    "passport_issued_date": "Passport Issued Date",
+    "emergency_contact_name": "Emergency Contact Name",
+    "emergency_contact_phone": "Emergency Contact phone",
+    "emergency_contact_email": "Emergency Contact Email",
+    "passport_expiration_date": "Passport Expiration Date",
+    "passport_issued_country": "Passport Issued Country",
+    "agreed_to_waivers": "Agreed to Waivers",
+    "food_allergies": "Food Allergies",
+    "medical_problems": "Medical Problems"
   },
   "participant_unit_create_update_page": {
     "created_a_new_participant": "Created a new competitor with name: {{name}}.",
@@ -912,7 +939,9 @@
     "this_race_is_postponed_therefore_its_start_time_is_not_available": "This race is postponed therefore its start time is not available.",
     "i_agree": "I agree to the event terms and conditions",
     "please_agree_to_the_terms_and_conditions_of_the_event": "Please agree to the terms and condition of the event.",
-    "sign_waiver": "Sign Waiver"
+    "sign_waiver": "Sign Waiver",
+    "successfully_signed_waiver": "Successfully signed waiver",
+    "hey_competitor_you_havent_signed_all_the_waivers": "Hey {{competitorName}}, by participating this event you must agree to all the waivers by signing them. Please consider signing the waivers as soon as possible."
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
