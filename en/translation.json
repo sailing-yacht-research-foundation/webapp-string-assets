@@ -909,7 +909,10 @@
     "hey_participant_name_this_event_has_participant_fee": "Hey {{participantName}}! This event has a participating fee of {{participatingFee}}, feel free to pay anytime! (SYRF will charge additional 10% of the fee.)",
     "you_already_paid_to_join_this_event": "You already paid for this event.",
     "pay_now":"Pay Now",
-    "this_race_is_postponed_therefore_its_start_time_is_not_available": "This race is postponed therefore its start time is not available."
+    "this_race_is_postponed_therefore_its_start_time_is_not_available": "This race is postponed therefore its start time is not available.",
+    "i_agree": "I agree to the event terms and conditions",
+    "please_agree_to_the_terms_and_conditions_of_the_event": "Please agree to the terms and condition of the event.",
+    "sign_waiver": "Sign Waiver"
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
@@ -1093,7 +1096,8 @@
     "please_input_no_more_than_characters": "Please input no more than {{numberOfChars}} characters.",
     "please_input_at_least_characters": "Please input at least {{numberOfChars}} characters.",
     "please_fill_out_this_field": "Please fill out this field.",
-    "none": "None"
+    "none": "None",
+    "please_input_your_name": "Please input your name"
   },
   "expedition_server_actions": {
     "race_udp_server_detail": "Race UDP server detail",
