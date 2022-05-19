@@ -297,7 +297,8 @@
       "enable_developer_feature": "Enable Developer Features",
       "developer_mode_activated_account_id": "Developer mode activated, account ID: {{developerId}}",
       "developer_description": "Don’t forget to get your developer token by following the instructions in the developer documentation. You should also join our <a target='blank' href='https://discord.com/invite/EfvufEsDua'>Discord group for support!</a> ",
-      "visit_developer_documentation": "Visit Developer Documentation"
+      "visit_developer_documentation": "Visit Developer Documentation",
+      "emergency_contact": "Emergency Contact"
     },
     "successfully_linked_your_instagram_account": "Successfully linked your Instagram account!",
     "successfully_linked_your_facebook_account": "Successfully linked your Facebook account!"
@@ -494,7 +495,7 @@
     "select_a_class": "Select a class",
     "please_select_a_class_to_join_this_event": "Please select a class to join this event.",
     "please_seelct_a_boat_to_join_this_event": "Please select a boat to join this event.",
-    "some_of_your_information_will_be_shared": "Some of your profile information will be shared with the event organizers.",
+    "some_of_your_information_will_be_shared": "Some of your profile information will be shared with the event organizers",
     "register_as_a_competitor": "Register as a competitor.",
     "yes": "Yes",
     "no": "No",
@@ -1075,7 +1076,8 @@
     "event_types": "Select an event type",
     "super_admin_options": "Super Admin Options",
     "planning_organization_is_a_organization_has_connected_payout": "Planning organization is an organization group that has connected payout.",
-    "click_to_move_to_participant_name": "Click to move to {{participantName}} location"
+    "click_to_move_to_participant_name": "Click to move to {{participantName}} location",
+    "export_competitors_info_along_with_their_shared_information": "Export competitors` information along with their shared information to a CSV file."
   },
   "forms": {
     "first_name_is_required": "First name is required.",
@@ -1128,7 +1130,8 @@
     "please_input_no_more_than_characters": "Please input no more than {{numberOfChars}} characters.",
     "please_input_at_least_characters": "Please input at least {{numberOfChars}} characters.",
     "please_fill_out_this_field": "Please fill out this field.",
-    "none": "None"
+    "none": "None",
+    "please_input_your_name": "Please input your name"
   },
   "expedition_server_actions": {
     "race_udp_server_detail": "Race UDP server detail",
