@@ -345,7 +345,11 @@
   },
   "verify_account_page": {
     "please_check_your_email": "Hey, We're so excited to have you on SYRF and We've sent the verify account link to your email. Please check your email to verify your account.",
-    "login": "Log In"
+    "login": "Log In",
+    "your_email_has_not_been_verified": "Your email has not been verified. Please check your inbox, if the link is expired please click the button below to verify your account.",
+    "verify_your_account": "Verify your account",
+    "if_you_havent_receive_any_email": "If you haven't received any email at all please click <0>here</0> to resend the verification or click <1>here</1> to return to the login page.",
+    "successfully_sent_verification_link_to": "Successfully sent verification link to {{email}}, please check your inbox to verify your account."
   },
   "misc": {
     "session_expired": "Session is expired and we renewed the session. Please try again!",
@@ -497,7 +501,14 @@
     "accepted_the_request": "Accepted the invitation request.",
     "are_you_sure_you_want_to_reject_this_invitation": "Are you sure you want to reject this invitation?",
     "reject_invitation": "Reject Invitation",
-    "successfully_rejected_this_invitation": "Successfully rejected this invitation."
+    "successfully_rejected_this_invitation": "Successfully rejected this invitation.",
+    "agree_to_share_information": "Agree to share information",
+    "emergency_contact": "Emergency Contact Information",
+    "covid_vaccination": "Covid Vaccination Information",
+    "medical_problems": "Medical Problems Information",
+    "food_allergies": "Food Allergies Information",
+    "immigration_info": "Immigration Information",
+    "is_paid_event": "Is Paid Event"
   },
   "competition_unit_list_page": {
     "location": "Location",
@@ -643,8 +654,12 @@
     "import_external_sources": "Import external sources such as competitors, races or classes from YachtScoring and other sources.",
     "free_or_paid": "Free or Paid?",
     "free_event": "Free Event",
-    "paid_event" : "Paid Event",
-    "in_order_to_charge_for_your_events" : "In order to charge for events, you must associate an organization with a configured Stripe account."
+    "paid_event": "Paid Event",
+    "in_order_to_charge_for_your_events": "In order to charge for events, you must associate an organization with a configured Stripe account.",
+    "require_competitor_info": "Require Competitor Info",
+    "notice_of_race": "Notice Of Race",
+    "media_waiver": "Media waiver",
+    "disclaimer": "Disclaimer"
   },
   "course_list": {
     "course": "Course",
@@ -826,7 +841,26 @@
     "successfully_blocked_this_participant": "Successfully blocked this participant.",
     "status": "Status",
     "crew": "Crews",
-    "is_paid": "Is Paid" 
+    "is_paid": "Is Paid",
+    "export": "Export",
+    "email": "Email",
+    "birth_date": "Birth Date",
+    "address": "Address",
+    "phone_number": "Phone Number",
+    "waiver_agreements": "Waiver Agreements",
+    "allow_to_share_information": "Allow to Share Information",
+    "has_covid_vaccination_card": "Has Covid vaccination card",
+    "emergency_contact_relationship": "Emergency Contact Relationship",
+    "passportNumber": "Passport Number",
+    "passport_issued_date": "Passport Issued Date",
+    "emergency_contact_name": "Emergency Contact Name",
+    "emergency_contact_phone": "Emergency Contact phone",
+    "emergency_contact_email": "Emergency Contact Email",
+    "passport_expiration_date": "Passport Expiration Date",
+    "passport_issued_country": "Passport Issued Country",
+    "agreed_to_waivers": "Agreed to Waivers",
+    "food_allergies": "Food Allergies",
+    "medical_problems": "Medical Problems"
   },
   "participant_unit_create_update_page": {
     "created_a_new_participant": "Created a new competitor with name: {{name}}.",
@@ -905,8 +939,13 @@
     "free": "Free",
     "hey_participant_name_this_event_has_participant_fee": "Hey {{participantName}}! This event has a participating fee of {{participatingFee}}, feel free to pay anytime! (SYRF will charge additional 10% of the fee.)",
     "you_already_paid_to_join_this_event": "You already paid for this event.",
-    "pay_now":"Pay Now",
-    "this_race_is_postponed_therefore_its_start_time_is_not_available": "This race is postponed therefore its start time is not available."
+    "pay_now": "Pay Now",
+    "this_race_is_postponed_therefore_its_start_time_is_not_available": "This race is postponed therefore its start time is not available.",
+    "i_agree": "I agree to the event terms and conditions",
+    "please_agree_to_the_terms_and_conditions_of_the_event": "Please agree to the terms and condition of the event.",
+    "sign_waiver": "Sign Waiver",
+    "successfully_signed_waiver": "Successfully signed waiver",
+    "hey_competitor_you_havent_signed_all_the_waivers": "Hey {{competitorName}}, by participating this event you must agree to all the waivers by signing them. Please consider signing the waivers as soon as possible."
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
