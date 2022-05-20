@@ -298,7 +298,8 @@
       "developer_mode_activated_account_id": "Developer mode activated, account ID: {{developerId}}",
       "developer_description": "Don’t forget to get your developer token by following the instructions in the developer documentation. You should also join our <a target='blank' href='https://discord.com/invite/EfvufEsDua'>Discord group for support!</a> ",
       "visit_developer_documentation": "Visit Developer Documentation",
-      "emergency_contact": "Emergency Contact"
+      "emergency_contact": "Emergency Contact",
+      "passport_issuing_country": "Passport Issuing Country."
     },
     "successfully_linked_your_instagram_account": "Successfully linked your Instagram account!",
     "successfully_linked_your_facebook_account": "Successfully linked your Facebook account!"
@@ -949,7 +950,7 @@
     "sign_waiver": "Sign Waiver",
     "successfully_signed_waiver": "Successfully signed waiver",
     "hey_competitor_you_havent_signed_all_the_waivers": "Hey {{competitorName}}, by participating on this event you must agree to all the waivers by signing them. Please consider signing the waivers as soon as possible.",
-    "announcement":"Announcement"
+    "announcements":"Announcements"
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
