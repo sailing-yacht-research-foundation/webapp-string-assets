@@ -347,9 +347,9 @@
   "verify_account_page": {
     "please_check_your_email": "Hey, We're so excited to have you on SYRF and We've sent the verify account link to your email. Please check your email to verify your account.",
     "login": "Log In",
-    "your_email_has_not_been_verified": "Your email has not been verified. Please check your inbox, if the link is expired please click the button below to verify your account.",
+    "your_email_has_not_been_verified": "Your email has not been verified. Please check your inbox, if the link in the email has expired please click the button below to verify your account.",
     "verify_your_account": "Verify your account",
-    "if_you_havent_receive_any_email": "If you haven't received any email at all please click <0>here</0> to resend the verification or click <1>here</1> to return to the login page.",
+    "if_you_havent_receive_any_email": "If you haven't received any email at all please click <0>here</0> to resend the verification or click <1>here</1> to return to the login page to log in.",
     "successfully_sent_verification_link_to": "Successfully sent verification link to {{email}}, please check your inbox to verify your account."
   },
   "misc": {
