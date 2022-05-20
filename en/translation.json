@@ -946,7 +946,7 @@
     "please_agree_to_the_terms_and_conditions_of_the_event": "Please agree to the terms and condition of the event.",
     "sign_waiver": "Sign Waiver",
     "successfully_signed_waiver": "Successfully signed waiver",
-    "hey_competitor_you_havent_signed_all_the_waivers": "Hey {{competitorName}}, by participating this event you must agree to all the waivers by signing them. Please consider signing the waivers as soon as possible.",
+    "hey_competitor_you_havent_signed_all_the_waivers": "Hey {{competitorName}}, by participating on this event you must agree to all the waivers by signing them. Please consider signing the waivers as soon as possible.",
     "announcement":"Announcement"
   },
   "my_tracks_page": {
