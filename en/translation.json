@@ -1374,5 +1374,9 @@
     "go_to_my_portal": "Go To My Portal",
     "your_subscription_will_be_cancelled_at_the_period_end": "Your subscription will be cancelled at the period end.",
     "expire_at": "Expire At:"
+  },
+  "settings_page": {
+    "notification_description": "Control your notifications across the web app and mobile app.",
+    "developer_description": "Developer mode, playing around with SYRF."
   }
 }
