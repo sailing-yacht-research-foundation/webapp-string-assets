@@ -512,7 +512,8 @@
     "medical_problems": "Medical Problems Information",
     "food_allergies": "Food Allergies Information",
     "immigration_info": "Immigration Information",
-    "is_paid_event": "Is Paid Event"
+    "is_paid_event": "Is Paid Event",
+    "sail_number":"Sail Number"
   },
   "competition_unit_list_page": {
     "location": "Location",
