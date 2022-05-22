@@ -662,7 +662,11 @@
     "require_competitor_info": "Require Competitor Info",
     "notice_of_race": "Notice Of Race",
     "media_waiver": "Media waiver",
-    "disclaimer": "Disclaimer"
+    "disclaimer": "Disclaimer",
+    "cancel_this_event": "Cancel this Event?",
+    "you_are_canceling_this_event": "You are canceling this event, are you sure you want to continue?",
+    "close_this_event": "Close this Event?",
+    "you_are_closing_this_event": "You are closing this event, are you sure you want to continue?"
   },
   "course_list": {
     "course": "Course",
