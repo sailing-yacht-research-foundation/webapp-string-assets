@@ -954,7 +954,13 @@
     "sign_waiver": "Sign Waiver",
     "successfully_signed_waiver": "Successfully signed waiver",
     "hey_competitor_you_havent_signed_all_the_waivers": "Hey {{competitorName}}, by participating on this event you must agree to all the waivers by signing them. Please consider signing the waivers as soon as possible.",
-    "announcements":"Announcements"
+    "announcements":"Announcements",
+    "this_event_requires_some_of_your_profile_information_click_share_now_if_you_want_to_share_them_with_the_organizer": "This event requires some of your profile information, click \"Share Now\" if you want to share them with the organizer.",
+    "share_now": "Share Now",
+    "share_information_to_the_organizers": "Share Information to the organizer",
+    "by_clicking_the_accept_button_you_will_share_the_following_information_to_the_organizer": "By clicking the accept button you will share the following information to the organizer:",
+    "accept": "Accept",
+    "successfully_shared_your_information_with_the_organizer": "Successfully shared your information with the organizer."
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
