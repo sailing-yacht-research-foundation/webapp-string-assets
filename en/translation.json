@@ -298,7 +298,8 @@
       "developer_mode_activated_account_id": "Developer mode activated, account ID: {{developerId}}",
       "developer_description": "Don’t forget to get your developer token by following the instructions in the developer documentation. You should also join our <a target='blank' href='https://discord.com/invite/EfvufEsDua'>Discord group for support!</a> ",
       "visit_developer_documentation": "Visit Developer Documentation",
-      "emergency_contact": "Emergency Contact"
+      "emergency_contact": "Emergency Contact",
+      "passport_issuing_country": "Passport Issuing Country"
     },
     "successfully_linked_your_instagram_account": "Successfully linked your Instagram account!",
     "successfully_linked_your_facebook_account": "Successfully linked your Facebook account!"
@@ -346,7 +347,13 @@
   },
   "verify_account_page": {
     "please_check_your_email": "Hey, We're so excited to have you on SYRF and We've sent the verify account link to your email. Please check your email to verify your account.",
-    "login": "Log In"
+    "login": "Log In",
+    "your_email_has_not_been_verified": "Your email has not been verified. Please check your inbox, if the link in the email has expired please click the button below to verify your account.",
+    "verify_your_account": "Verify your account",
+    "if_you_havent_receive_any_email": "If you haven't received any email at all please click <0>here</0> to resend the verification or click <1>here</1> to return to the login page to log in.",
+    "successfully_sent_verification_link_to": "Successfully sent verification link to {{email}}, please check your inbox to verify your account.",
+    "successfully_sent_verification_link_to_your_email": "Successfully sent verification link to your email, please check your inbox to verify your account."
+
   },
   "misc": {
     "session_expired": "Session is expired and we renewed the session. Please try again!",
@@ -504,7 +511,7 @@
     "covid_vaccination": "Covid Vaccination Information",
     "medical_problems": "Medical Problems Information",
     "food_allergies": "Food Allergies Information",
-    "immigration_info": "Immigration Information" ,
+    "immigration_info": "Immigration Information",
     "is_paid_event": "Is Paid Event"
   },
   "competition_unit_list_page": {
@@ -651,8 +658,8 @@
     "import_external_sources": "Import external sources such as competitors, races or classes from YachtScoring and other sources.",
     "free_or_paid": "Free or Paid?",
     "free_event": "Free Event",
-    "paid_event" : "Paid Event",
-    "in_order_to_charge_for_your_events" : "In order to charge for events, you must associate an organization with a configured Stripe account.",
+    "paid_event": "Paid Event",
+    "in_order_to_charge_for_your_events": "In order to charge for events, you must associate an organization with a configured Stripe account.",
     "require_competitor_info": "Require Competitor Info",
     "notice_of_race": "Notice Of Race",
     "media_waiver": "Media waiver",
@@ -847,7 +854,7 @@
     "waiver_agreements": "Waiver Agreements",
     "allow_to_share_information": "Allow to Share Information",
     "has_covid_vaccination_card": "Has Covid vaccination card",
-    "emergency_contact_relationship" :"Emergency Contact Relationship",
+    "emergency_contact_relationship": "Emergency Contact Relationship",
     "passportNumber": "Passport Number",
     "passport_issued_date": "Passport Issued Date",
     "emergency_contact_name": "Emergency Contact Name",
@@ -942,7 +949,8 @@
     "please_agree_to_the_terms_and_conditions_of_the_event": "Please agree to the terms and condition of the event.",
     "sign_waiver": "Sign Waiver",
     "successfully_signed_waiver": "Successfully signed waiver",
-    "hey_competitor_you_havent_signed_all_the_waivers": "Hey {{competitorName}}, by participating this event you must agree to all the waivers by signing them. Please consider signing the waivers as soon as possible."
+    "hey_competitor_you_havent_signed_all_the_waivers": "Hey {{competitorName}}, by participating on this event you must agree to all the waivers by signing them. Please consider signing the waivers as soon as possible.",
+    "announcements":"Announcements"
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
@@ -1374,5 +1382,9 @@
     "go_to_my_portal": "Go To My Portal",
     "your_subscription_will_be_cancelled_at_the_period_end": "Your subscription will be cancelled at the period end.",
     "expire_at": "Expire At:"
+  },
+  "settings_page": {
+    "notification_description": "Control your notifications across the web app and mobile app.",
+    "developer_description": "Developer mode, playing around with SYRF."
   }
 }
