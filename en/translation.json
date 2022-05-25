@@ -514,6 +514,10 @@
     "food_allergies": "Food Allergies Information",
     "immigration_info": "Immigration Information",
     "is_paid_event": "Is Paid Event",
+    "leave_event": "Leave {{eventName}}?",
+    "you_are_about_to_leave_this_event_are_you_sure_you_want_to_continue": "You are about to leave this event, are you sure you want to continue?",
+    "successfully_left_the_event": "Successfully left the event.",
+    "leave_event_button": "Leave Event",
     "sail_number":"Sail Number"
   },
   "competition_unit_list_page": {
@@ -871,6 +875,7 @@
     "agreed_to_waivers": "Agreed to Waivers",
     "food_allergies": "Food Allergies",
     "medical_problems": "Medical Problems",
+    "not_shared": "Not Shared",
     "sail_number": "Sail Number"
   },
   "participant_unit_create_update_page": {
@@ -950,14 +955,20 @@
     "free": "Free",
     "hey_participant_name_this_event_has_participant_fee": "Hey {{participantName}}! This event has a participating fee of {{participatingFee}}, feel free to pay anytime! (SYRF will charge additional 10% of the fee.)",
     "you_already_paid_to_join_this_event": "You already paid for this event.",
-    "pay_now": "Pay Now",
+    "pay_now":"Pay Now",
     "this_race_is_postponed_therefore_its_start_time_is_not_available": "This race is postponed therefore its start time is not available.",
     "i_agree": "I agree to the event terms and conditions",
     "please_agree_to_the_terms_and_conditions_of_the_event": "Please agree to the terms and condition of the event.",
     "sign_waiver": "Sign Waiver",
     "successfully_signed_waiver": "Successfully signed waiver",
     "hey_competitor_you_havent_signed_all_the_waivers": "Hey {{competitorName}}, by participating on this event you must agree to all the waivers by signing them. Please consider signing the waivers as soon as possible.",
-    "announcements":"Announcements"
+    "announcements":"Announcements",
+    "this_event_requires_some_of_your_profile_information_click_share_now_if_you_want_to_share_them_with_the_organizer": "This event requires some of your profile information, click \"Share Now\" if you want to share them with the organizer.",
+    "share_now": "Share Now",
+    "share_information_to_the_organizers": "Share Information to the organizer",
+    "by_clicking_the_accept_button_you_will_share_the_following_information_to_the_organizer": "By clicking the accept button you will share the following information to the organizer:",
+    "accept": "Accept",
+    "successfully_shared_your_information_with_the_organizer": "Successfully shared your information with the organizer."
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
