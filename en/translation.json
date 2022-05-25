@@ -663,7 +663,11 @@
     "require_competitor_info": "Require Competitor Info",
     "notice_of_race": "Notice Of Race",
     "media_waiver": "Media waiver",
-    "disclaimer": "Disclaimer"
+    "disclaimer": "Disclaimer",
+    "cancel_this_event": "Cancel this Event?",
+    "you_are_canceling_this_event": "You are canceling this event, are you sure you want to continue?",
+    "close_this_event": "Close this Event?",
+    "you_are_closing_this_event": "You are closing this event, are you sure you want to continue?"
   },
   "course_list": {
     "course": "Course",
@@ -1081,7 +1085,9 @@
     "super_admin_options": "Super Admin Options",
     "planning_organization_is_a_organization_has_connected_payout": "Planning organization is an organization group that has connected payout.",
     "click_to_move_to_participant_name": "Click to move to {{participantName}} location",
-    "export_competitors_info_along_with_their_shared_information": "Export competitors` information along with their shared information to a CSV file."
+    "export_competitors_info_along_with_their_shared_information": "Export competitors` information along with their shared information to a CSV file.",
+    "your_new_email": "Your New Email",
+    "confirm_new_email": "Confirm New Email"
   },
   "forms": {
     "first_name_is_required": "First name is required.",
@@ -1092,6 +1098,8 @@
     "new_password_is_required": "New password is required.",
     "new_password_must_be_between": "New password must be between 8 and 16 characters",
     "password_must_be_between": "Password must be between 8 and 16 characters",
+    "email_must_be_between": "Email must be between 6 and 80 characters",
+    "new_email_must_be_between": "New email must be between 6 and 80 characters",
     "start_date_is_required": "Start date is required.",
     "start_time_is_required": "Start time is required.",
     "end_date_is_required": "End date is required.",
@@ -1385,6 +1393,21 @@
   },
   "settings_page": {
     "notification_description": "Control your notifications across the web app and mobile app.",
-    "developer_description": "Developer mode, playing around with SYRF."
+    "developer_description": "Developer mode, playing around with SYRF.",
+    "email": "Email",
+    "password": "Password",
+    "email_and_password": "Email & Password",
+    "control_you_email_and_password": "Control your email & password.",
+    "notifications": "Notifications",
+    "change": "Change",
+    "new_email": "New Email",
+    "confirm_new_email":"Confirm New Email",
+    "please_confirm_you_new_email": "Please confirm your new email",
+    "change_email": "Change Email",
+    "please_input_your_current_password": "Please input current Password",
+    "the_two_emails_that_you_entered_do_not_match": "The two emails that you entered do not match!",
+    "email_changed_successfully": "Email changed successfully. Please remember to login as your new email the next time you login to SYRF's ecosystem.",
+    "please_remember_that_once_the_email_changed_you_cannot_login_using_the_old_email": "Please remember that once the email changed you can no longer login using the old email.",
+    "your_password_is_incorrect": "Your password is incorrect, please try again."
   }
 }
