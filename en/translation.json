@@ -868,7 +868,8 @@
     "passport_issued_country": "Passport Issued Country",
     "agreed_to_waivers": "Agreed to Waivers",
     "food_allergies": "Food Allergies",
-    "medical_problems": "Medical Problems"
+    "medical_problems": "Medical Problems",
+    "not_shared": "Not Shared"
   },
   "participant_unit_create_update_page": {
     "created_a_new_participant": "Created a new competitor with name: {{name}}.",
