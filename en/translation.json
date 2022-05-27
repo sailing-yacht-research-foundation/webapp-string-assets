@@ -1422,6 +1422,10 @@
     "the_two_emails_that_you_entered_do_not_match": "The two emails that you entered do not match!",
     "email_changed_successfully": "Email changed successfully. Please remember to login as your new email the next time you login to SYRF's ecosystem.",
     "please_remember_that_once_the_email_changed_you_cannot_login_using_the_old_email": "Please remember that once the email changed you can no longer login using the old email.",
-    "your_password_is_incorrect": "Your password is incorrect, please try again."
+    "your_password_is_incorrect": "Your password is incorrect, please try again.",
+    "new_event_messages_received": "New Event Messages Received",
+    "simulation_deletion": "Simulation Deletion",
+    "new_event_document_uploaded": "New Event Document Uploaded",
+    "kudos_received": "Kudos Recevied"
   }
 }
