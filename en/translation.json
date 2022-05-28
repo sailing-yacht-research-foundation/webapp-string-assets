@@ -890,7 +890,8 @@
     "food_allergies": "Food Allergies",
     "medical_problems": "Medical Problems",
     "not_shared": "Not Shared",
-    "sail_number": "Sail Number"
+    "sail_number": "Sail Number",
+    "agreed_to_documents": "Agreed To Documents"
   },
   "participant_unit_create_update_page": {
     "created_a_new_participant": "Created a new competitor with name: {{name}}.",
