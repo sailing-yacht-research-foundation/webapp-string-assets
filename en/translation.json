@@ -673,7 +673,21 @@
     "cancel_this_event": "Cancel this Event?",
     "you_are_canceling_this_event": "You are canceling this event, are you sure you want to continue?",
     "close_this_event": "Close this Event?",
-    "you_are_closing_this_event": "You are closing this event, are you sure you want to continue?"
+    "you_are_closing_this_event": "You are closing this event, are you sure you want to continue?",
+    "upload_arbitrary_documents": "Upload Arbitrary Documents",
+    "this_name_has_been_used_before_please_try_another_name": "This name has been used before. Please try another name.",
+    "successfully_uploaded_your_documents": "Successfully uploaded your documents",
+    "document_name": "Document Name",
+    "pdf_file": "PDF file",
+    "require_competitor_signature": "Require Competitor's Signature",
+    "remove_above_field": "Remove Above Field",
+    "add_field": "Add Field",
+    "sign": "Sign",
+    "waiver_documents": "Waiver Documents",
+    "additional_documents": "Additional Documents",
+    "are_you_sure_you_want_to_delete_this_document": "Are you sure you want to delete this document?",
+    "delete_document": "Delete document",
+    "the_name_you_entered_does_not_match_your_registered_name": "The name you entered does not match your registered name."
   },
   "course_list": {
     "course": "Course",
@@ -968,7 +982,8 @@
     "share_information_to_the_organizers": "Share Information to the organizer",
     "by_clicking_the_accept_button_you_will_share_the_following_information_to_the_organizer": "By clicking the accept button you will share the following information to the organizer:",
     "accept": "Accept",
-    "successfully_shared_your_information_with_the_organizer": "Successfully shared your information with the organizer."
+    "successfully_shared_your_information_with_the_organizer": "Successfully shared your information with the organizer.",
+    "sign_document": "Sign Document"
   },
   "my_tracks_page": {
     "my_tracks": "My Tracks",
