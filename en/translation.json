@@ -876,7 +876,9 @@
     "food_allergies": "Food Allergies",
     "medical_problems": "Medical Problems",
     "not_shared": "Not Shared",
-    "sail_number": "Sail Number"
+    "sail_number": "Sail Number",
+    "passport_photo":"Passport Photo",
+    "covid_card": "Covid Card"
   },
   "participant_unit_create_update_page": {
     "created_a_new_participant": "Created a new competitor with name: {{name}}.",
