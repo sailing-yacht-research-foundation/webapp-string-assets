@@ -457,7 +457,8 @@
     "switch": "Switch",
     "subscribe": "Subscribe",
     "close": "Close",
-    "your_payment_has_been_successfully_completed": "Your payment has been successfully completed."
+    "your_payment_has_been_successfully_completed": "Your payment has been successfully completed.",
+    "your_action_is_unauthorized": "Your action is not authorized"
   },
   "data_page": {
     "syrf_race_data": "SYRF Race Data",
