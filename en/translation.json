@@ -690,7 +690,7 @@
     "delete_document": "Delete document",
     "the_name_you_entered_does_not_match_your_registered_name": "The name you entered does not match your registered name.",
     "successfully_created_a_new_default_course_for_this_event": "Successfully created a new default course for this event.",
-    "uploaded_file": "Uploaded file {{fileName}}"
+    "document_uploaded": "Document uploaded: {{fileName}}"
   },
   "course_list": {
     "course": "Course",
