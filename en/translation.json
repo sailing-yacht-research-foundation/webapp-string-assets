@@ -689,7 +689,8 @@
     "are_you_sure_you_want_to_delete_this_document": "Are you sure you want to delete this document?",
     "delete_document": "Delete document",
     "the_name_you_entered_does_not_match_your_registered_name": "The name you entered does not match your registered name.",
-    "successfully_created_a_new_default_course_for_this_event": "Successfully created a new default course for this event."
+    "successfully_created_a_new_default_course_for_this_event": "Successfully created a new default course for this event.",
+    "uploaded_file": "Uploaded file {{fileName}}"
   },
   "course_list": {
     "course": "Course",
