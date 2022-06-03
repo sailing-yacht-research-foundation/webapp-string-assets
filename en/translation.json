@@ -1039,7 +1039,7 @@
     "event_start_time": "The start time of the event.",
     "event_end_date": "The end date of the event.",
     "event_end_time": "The end time of the event.",
-    "event_time_zone": "The timezone which the event will happen.",
+    "event_time_zone": "The timezone which the event will happen, this will change based on the location you selected.",
     "event_website": "Your website that host the event.",
     "create_race": "Create and setup a new race for this event.",
     "create_class": "Create class for this event.",
