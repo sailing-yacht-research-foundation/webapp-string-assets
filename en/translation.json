@@ -769,7 +769,8 @@
     "successfully_created_vessels": "Successfully created {{number_of_vessels}} boats.",
     "role": "Role",
     "admin": "Admin",
-    "owner": "Owner"
+    "owner": "Owner",
+    "is_default_boat": "Is Default Boat"
   },
   "vessel_create_update_page": {
     "created_a_new_vessel": "Created a new boat with name: {{name}}.",
