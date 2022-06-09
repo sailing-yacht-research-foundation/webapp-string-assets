@@ -1307,7 +1307,7 @@
     "leave_your_invitees_a_message": "Leave a message to your invitees",
     "you_can_leave_your_invitees_a_message_so_that": "You can leave a message to your invitees so that they will be notified to join your group",
     "click_here_to_open_mail_app": "Click here to open mail app",
-    "your_inputted_emails_are_not_valid": "You inputted emails are not valid emails.",
+    "your_inputted_emails_are_not_valid": "Some of your inputted emails are not valid emails.",
     "you_have_not_requested_to_join_any_groups": "You have not requested to join any groups",
     "individual": "Individual",
     "group": "Group",
@@ -1328,7 +1328,11 @@
     "set_up_now": "Set Up Now",
     "connected_information": "Connected Information",
     "charges_enabled": "Charges Enabled",
-    "payout_enabled": "Payout Enabled"
+    "payout_enabled": "Payout Enabled",
+    "invite_members": "Invite Members",
+    "search_and_choose_people_or_groups_to_invite": "Search and select people or groups to invite",
+    "or_invite_them_using_emails": "Or invite them using emails",
+    "you_must_specify_at_least_one_person_or_group_or_email_to_invite": "You must specify at least one person or a group or an email to start inviting."
   },
   "public_profile": {
     "people_you_may_know": "People you may know",
