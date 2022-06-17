@@ -414,7 +414,8 @@
     "click_to_change_time_format": "Click to change time format.",
     "this_race_is_postponed_please_come_back_later": "This race is postponed please come back later or contact the organizer for updates.",
     "race_is_completed": "Race is completed",
-    "this_race_is_completed": "This race is completed."
+    "this_race_is_completed": "This race is completed.",
+    "click_here_to_replay": "Click here to replay."
   },
   "general": {
     "your_session_is_expired": "Your session is expired, please login again.",
