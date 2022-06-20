@@ -46,7 +46,8 @@
         "this_race_will_be_marked_as_completed_are_you_sure_you_want_to_continue": "This race will be marked as completed, are you sure you want to continue?",
         "are_you_sure_you_want_to_force_delete_this_race": "Are you sure you want to force delete this race?",
         "this_race_will_be_deleted_are_you_sure_you_want_to_continue": "This race will be deleted, are you sure you sure you want to continue?",
-        "watch_this_race": "Watch {{raceName}}"
+        "watch_this_race": "Watch {{raceName}}",
+        "postponed": "Postponed"
       }
     },
     "search_performed_no_result_found": "Searched for {{keyword}}, no result found.",
@@ -410,7 +411,11 @@
     "simulate_as_open_regatta": "Simulate as Open Regatta",
     "simulate_as_private_event": "Simulate as a Private Event",
     "boat_disconnected": "Boat {{boat_name}} has disconnected.",
-    "click_to_change_time_format": "Click to change time format."
+    "click_to_change_time_format": "Click to change time format.",
+    "this_race_is_postponed_please_come_back_later": "This race is postponed please come back later or contact the organizer for updates.",
+    "race_is_completed": "Race is completed",
+    "this_race_is_completed": "This race is completed.",
+    "click_here_for_replay": "Click here for replay"
   },
   "general": {
     "your_session_is_expired": "Your session is expired, please login again.",
