@@ -696,7 +696,8 @@
     "delete_document": "Delete document",
     "the_name_you_entered_does_not_match_your_registered_name": "The name you entered does not match your registered name.",
     "successfully_created_a_new_default_course_for_this_event": "Successfully created a new default course for this event.",
-    "document_uploaded": "Document uploaded: {{fileName}}"
+    "document_uploaded": "Document uploaded: {{fileName}}", 
+    "there_is_a_problem_with_your_inputted_address": "There is a problem with your inputted address, the location based on the address might not be found or there is an error getting the location based on the address."
   },
   "course_list": {
     "course": "Course",
