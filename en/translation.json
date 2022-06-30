@@ -526,7 +526,8 @@
     "successfully_left_the_event": "Successfully left the event.",
     "leave_event_button": "Leave Event",
     "sail_number":"Sail Number",
-    "state": "State"
+    "state": "State",
+    "type":"Type"
   },
   "competition_unit_list_page": {
     "location": "Location",
