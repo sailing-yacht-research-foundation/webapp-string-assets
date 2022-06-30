@@ -525,7 +525,8 @@
     "you_are_about_to_leave_this_event_are_you_sure_you_want_to_continue": "You are about to leave this event, are you sure you want to continue?",
     "successfully_left_the_event": "Successfully left the event.",
     "leave_event_button": "Leave Event",
-    "sail_number":"Sail Number"
+    "sail_number":"Sail Number",
+    "type":"Type"
   },
   "competition_unit_list_page": {
     "location": "Location",
