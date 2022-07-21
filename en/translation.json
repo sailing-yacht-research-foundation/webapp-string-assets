@@ -1377,7 +1377,8 @@
     "interests": "Interests",
     "groups_and_organizations": "Groups and Organizations",
     "about": "About",
-    "followers_last_24h": "{{numberOfFollowers}} followers last 24h"
+    "followers_last_24h": "{{numberOfFollowers}} followers last 24h",
+    "pending_follow_requests": "Pending follow requests"
   },
   "credentail_manager_page": {
     "credentials": "Credentials",
