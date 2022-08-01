@@ -415,14 +415,14 @@
     "click_to_change_time_format": "Click to change time format.",
     "this_race_is_postponed_please_come_back_later": "This race is postponed please come back later or contact the organizer for updates.",
     "race_is_completed": "Race is completed",
-    "this_race_is_completed": "This race is completed, please close this modal to replay.",
+    "this_race_is_completed": "This race is completed, Please close this modal to load the replay.",
     "click_here_for_replay": "Click here for replay",
     "race_is_canceled": "Race is canceled",
     "this_race_is_canceled_by_the_organizer": "This race is canceled, please contact the organizer for more information.",
     "claim_this_track": "Claim {{participantName}}'s track",
     "are_you_sure_you_want_to_claim_track": "Are you sure you want to claim {{participantName}}'s track?",
     "successfully_claimed_track": "Successfully claimed {{participantName}}'s track",
-    "we_are_processing_data" : "Hey there! We are processing data for this race",
+    "we_are_processing_data" : "Hey there! We are processing data for this race.",
     "it_will_take_some_time_to_process_this_race": "It will take some time to process this race until you can watch it, but no worries, we will play this race right away when it's available."
   },
   "general": {
