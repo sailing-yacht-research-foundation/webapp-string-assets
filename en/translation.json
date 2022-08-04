@@ -52,7 +52,7 @@
     },
     "search_performed_no_result_found": "Searched for {{keyword}}, no result found.",
     "successfully_registered_to_join_this_competition": "Successfully registered to join this competition.",
-    "register_as_competitor": "Register as Competitor",
+    "register_as_captain": "Register as Captain",
     "live_and_upcoming": {
       "live_and_upcoming_races": "Live and upcoming races.",
       "live_and_upcoming_events": "Live and Upcoming Events",
@@ -510,7 +510,7 @@
     "status": "Status",
     "invitations": "Invitations",
     "invited_at": "Invited At",
-    "register_for": "Register for {{raceName}}",
+    "register_for": "Register for {{name}}",
     "select_a_boat": "Select a boat",
     "select_a_class": "Select a class",
     "please_select_a_class_to_join_this_event": "Please select a class to join this event.",
