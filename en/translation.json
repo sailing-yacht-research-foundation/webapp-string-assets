@@ -1352,7 +1352,9 @@
     "invite_members": "Invite Members",
     "search_and_choose_people_or_groups_to_invite": "Search and select people or groups to invite",
     "or_invite_them_using_emails": "Or invite them using emails",
-    "you_must_specify_at_least_one_person_or_group_or_email_to_invite": "You must specify at least one person or a group or an email to start inviting."
+    "you_must_specify_at_least_one_person_or_group_or_email_to_invite": "You must specify at least one person or a group or an email to start inviting.",
+    "successfully_disconnected_to_stripe": "Successfully disconnected to Stripe.",
+    "remove_payout_connection": "Remove payout connection"
   },
   "public_profile": {
     "most_popular_accounts_in_country": "Most popular accounts in {{country}}",
