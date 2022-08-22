@@ -1281,7 +1281,7 @@
     "your_entered_group_name_is_not_correct": "You entered group name is not correct.",
     "removed_the_group": "Removed the group.",
     "are_you_sure_you_want_to_delete_this_group": "Are you really sure you want to delete this group?",
-    "hey_are_you_sure_you_want_to_delete_this_group": "Hey, Are you really sure you want to delete this group? All associated information will be deleted as well such as members, posts, events,... etc. Please double check by typing the group name in the field below and press ok.",
+    "hey_are_you_sure_you_want_to_delete_this_group": "Hey, Are you really sure you want to delete \"{{groupName}}\" group? All associated information will be deleted as well such as members, posts, events,... etc. Please double check by typing the group name in the field below and press ok.",
     "name_of_the_group": "Name Of The Group",
     "group_name_is_required": "Group name is required.",
     "please_input_group_name_to_continue": "Please input group name to continue",
@@ -1303,6 +1303,7 @@
     "leave_group": "Leave group",
     "delete_group": "Delete Group",
     "members_nav": "Members",
+    "payout_nav": "Payout",
     "pending_join_requests": "Pending Join Requests",
     "admin": "Admin",
     "member": "Member",
@@ -1349,8 +1350,14 @@
     "payout_enabled": "Payout Enabled",
     "invite_members": "Invite Members",
     "search_and_choose_people_or_groups_to_invite": "Search and select people or groups to invite",
+    "search_and_choose_people_to_invite_then_as_admins": "Search and select people to invite them as admins",
     "or_invite_them_using_emails": "Or invite them using emails",
-    "you_must_specify_at_least_one_person_or_group_or_email_to_invite": "You must specify at least one person or a group or an email to start inviting."
+    "you_must_specify_at_least_one_person_or_group_or_email_to_invite": "You must specify at least one person or a group or an email to start inviting.",
+    "successfully_disconnected_to_stripe": "Successfully disconnected to Stripe.",
+    "remove_payout_connection": "Remove payout connection",
+    "invite_admins": "Invite Admins",
+    "disconnect_stripe_payout": "Disconnect Stripe Payout",
+    "are_you_sure_you_want_to_disconnect_stripe_payout": "Are you sure you want to disconnect Stripe payout from this group?"
   },
   "public_profile": {
     "most_popular_accounts_in_country": "Most popular accounts in {{country}}",
