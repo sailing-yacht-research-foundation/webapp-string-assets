@@ -67,8 +67,7 @@
       "user_dropdown": {
         "change_password": "Change Password",
         "log_out": "Log Out"
-      },
-      "about": "About"
+      }
     },
     "video_section": {
       "one_login": "One Login",
@@ -110,7 +109,7 @@
       "syrf_link": "SYRF",
       "policy_privacy_link": "Privacy Policy",
       "eula_link": "End User License Agreement",
-      "copyright": "Copyright (c) 2021 Sailing Yacht Research Foundation"
+      "copyright": "Copyright (c) {{year}} Sailing Yacht Research Foundation"
     }
   },
   "login_page": {
@@ -138,7 +137,6 @@
     "cannot_login_at_the_moment": "We cannot log you in at the moment."
   },
   "signup_page": {
-    "country": "Country",
     "select_a_country": "Select a country",
     "phone_number": "Phone Number",
     "language": "Language",
@@ -153,23 +151,16 @@
     "signup": "Sign Up",
     "cannot_sign_you_up_at_the_moment": "Cannot sign you up at the moment.",
     "signing_you_up": "Signing you up...",
-    "first_name": "First Name",
-    "last_name": "Last Name",
     "password_confirmation": "Password Confirmation",
     "please_confirm_your_password": "Please confirm your password!",
     "the_two_passwords_that_you_entered_do_not_match": "The two passwords that you entered do not match!",
     "user_already_exists": "User already exists",
     "register_success": "Thank for becoming a member of SYRF, Please verify your account!",
-    "first_name_is_required": "First name is required",
-    "last_name_is_required": "Last name is required",
-    "first_name_cannot_be_longer": "First name cannot be longer than 15 characters",
-    "last_name_cannot_be_longer": "Last name cannot be longer than 15 characters.",
     "eula": "EULA",
     "agree_over_18": "I'm over 18 or have guardian's consent",
     "you_should_make_sure_you_are_18_or_over": "You should make sure you are 18 or older or have guardian's consent."
   },
   "side_menu": {
-    "deal": "Deals",
     "profile": {
       "title": "Profile",
       "name": "My Account",
@@ -220,9 +211,6 @@
       "enter_phone_number": "Enter phone number",
       "language": "Language",
       "select_a_language": "Select a language",
-      "first_name": "First Name",
-      "last_name": "Last Name",
-      "country": "Country",
       "select_a_country": "Select a country",
       "biography": "Biography",
       "biography_description": "e.g. Olympic 29er champion and meteorology nerd.",
@@ -270,7 +258,6 @@
       "are_you_sure_you_want_to_remove_covid_card": "Are you sure you want to remove COVID card?",
       "remove_passport_photo": "Remove Passport Photo",
       "are_you_sure_you_want_to_remove_passport_photo": "Are you sure you want to remove passport photo?",
-      "remove": "Remove",
       "notifications": "Notifications",
       "email_notification_settings": "Email Notification Settings",
       "mobile_notification_settings": "Mobile Notification Settings",
@@ -300,14 +287,6 @@
     },
     "successfully_linked_your_instagram_account": "Successfully linked your Instagram account!",
     "successfully_linked_your_facebook_account": "Successfully linked your Facebook account!"
-  },
-  "privacy_page": {
-    "version": "version",
-    "agree": "Agree"
-  },
-  "eulapage": {
-    "version": "version",
-    "agree": "Agree"
   },
   "not_found_page": {
     "page_not_found": "Page not found",
@@ -475,7 +454,18 @@
     "password": "Password",
     "save": "Save",
     "accept": "Accept",
-    "reject": "Reject"
+    "reject": "Reject",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "stop": "Stop",
+    "invite": "Invite",
+    "city": "City",
+    "about": "About",
+    "download_all": "Download All",
+    "version": "version",
+    "source": "Source",
+    "all": "All",
+    "upload": "Upload"
   },
   "data_page": {
     "syrf_race_data": "SYRF Race Data",
@@ -497,8 +487,6 @@
     "my_events": "My Events",
     "my_races": "My Races",
     "create_a_new_event": "Create A New Event",
-    "city": "City",
-    "country": "Country",
     "events_are_regattas": "Events are regattas, races, or series that would be added to a calendar. An Event can have 1 or many specific races, divisions, or trophies.",
     "download_icalendar": "Download Icalendar",
     "races": "Races",
@@ -506,7 +494,6 @@
     "status_publicevent": "Public Event",
     "status_privateevent": "Private Event",
     "admins": "Admins",
-    "status": "Status",
     "invitations": "Invitations",
     "invited_at": "Invited At",
     "register_for": "Register for {{name}}",
@@ -516,8 +503,6 @@
     "please_seelct_a_boat_to_join_this_event": "Please select a boat to join this event.",
     "some_of_your_information_will_be_shared": "Some of your profile information will be shared with the event organizers",
     "register_as_a_competitor": "Register as a competitor.",
-    "yes": "Yes",
-    "no": "No",
     "accepted_the_request": "Accepted the invitation request.",
     "are_you_sure_you_want_to_reject_this_invitation": "Are you sure you want to reject this invitation?",
     "reject_invitation": "Reject Invitation",
@@ -542,10 +527,7 @@
     "approximate_start": "Approximate Start",
     "you_dont_have_any_competition_unit": "You don't have any races, please create one.",
     "event_name": "Event Name",
-    "race_configurations_pair_classes_to_courses": "Race configurations pair classes to courses.",
-    "status": "Status",
-    "stop": "Stop",
-    "start": "Start"
+    "race_configurations_pair_classes_to_courses": "Race configurations pair classes to courses."
   },
   "competition_unit_create_update_page": {
     "created_a_new_competition_unit": "Created a new race with name: {{name}}.",
@@ -665,9 +647,6 @@
     "require_certificates": "Require Certificates",
     "planning_organization": "Planning Organization",
     "pdf_documents": "PDF documents",
-    "download_all": "Download All",
-    "download": "Download",
-    "upload": "Upload",
     "keep_draft": "Keep Draft",
     "make_public": "Make Public",
     "send_an_announcement": "Send An Announcement",
@@ -831,9 +810,6 @@
     "generator": "Generator",
     "electrical_distribution_system": "Electrical Distribution System",
     "engine": "Engine",
-    "upload": "Upload",
-    "download": "Download",
-    "download_all": "Download All",
     "photo": "Photo",
     "deck_plan": "Deck Plan",
     "hull_diagram": "Hull Diagram",
@@ -866,19 +842,14 @@
     "tracker_url": "Tracker URL",
     "copied_to_clipboard": "Copied to clipboard.",
     "assigned_vessels": "Assigned Boats",
-    "all": "All",
     "assigned": "Assigned",
     "unassigned": "Unassigned",
-    "remove": "Remove",
     "class_name": "Class Name",
-    "invite": "Invite",
     "successfully_invited_user": "Successfully invited this user.",
     "there_is_error_happended_when_inviting_this_user": "There is an error happened when inviting this user.",
-    "block": "Block",
     "block_participant": "Block Participant",
     "are_you_sure_you_want_to_block_this_participant": "Are you sure you want to block this participant.",
     "successfully_blocked_this_participant": "Successfully blocked this participant.",
-    "status": "Status",
     "crew": "Crews",
     "is_paid": "Is Paid",
     "export": "Export",
@@ -1002,9 +973,6 @@
     "you_dont_have_any_tracks": "You don't have any tracks. Start tracking by using our app.",
     "download_as_gpx": "Download as GPX",
     "download_as_kml": "Download as KML",
-    "download": "Download",
-    "city": "City",
-    "country": "Country",
     "elapsed_time": "Elapsed Time",
     "total_distance": "Total Distance",
     "traveled_overground_distance": "Traveled Over Ground Distance",
@@ -1026,8 +994,7 @@
     "watch_this_track": "Watch {{trackName}}",
     "phone_os": "Phone OS",
     "phone_model": "Phone Model",
-    "location_update_count": "Location Update Count",
-    "source": "Source"
+    "location_update_count": "Location Update Count"
   },
   "tip": {
     "search_for_races_using_different_criteria": "Search for races using different criteria.",
@@ -1202,7 +1169,6 @@
     "remove_as_admin": "Remove as Admin",
     "remove_from_group": "Remove from group",
     "cancel_invitation": "Cancel invitation",
-    "invite": "Invite",
     "are_you_sure_you_want_to_remove_person_out_of_this_group": "Are you sure you want to remove {{memberName}} from the group?",
     "this_people_will_no_longer_see_any": "{{memberName}} can no longer see any posts, events,... from this group. Do you really want to remove?",
     "successfully_removed_this_person_from_the_group": "Successfully removed {{memberName}} from the group.",
@@ -1233,7 +1199,6 @@
     "are_you_sure_you_want_to_leave_this_group": "Are you sure you want to leave this group?",
     "you_will_no_longer_see_any_posts_or_events": "You will no longer see any posts or events.",
     "we_dont_have_any_admins_right_now": "We don't have any admins right now.",
-    "about": "About",
     "we_dont_have_any_members_right_now": "We don't have any members right now, please change or extend the filter to see more.",
     "successfully_assign_this_member_as_admin": "Successfully assigned this member as admin.",
     "this_member_has_not_accepted_the_invitation_to_join_group": "This member has not accepted the invitation to join the group.",
@@ -1276,7 +1241,6 @@
     "are_you_really_sure_you_want_to_block_user_they_will_no_longer": "Are you really sure you want to block {{memberName}}, they will no longer be able to search or join this group.",
     "blocked": "Blocked",
     "accepted": "Accepted",
-    "all": "All",
     "invited": "Invited",
     "it_appears_that_your_organization_has_not_connected_to_payout_click_here_to_set_it_up": "It appears that your organization has not connected to payout, please click \"Set Up\" to set up.",
     "set_up": "Set Up",
@@ -1315,15 +1279,12 @@
     "unfollow_people": "Unfollow {{profileName}}",
     "are_you_sure_to_unfollow": "Are you sure you want to unfollow {{profileName}}?",
     "search_or_select_people": "Search or select a person.",
-    "block": "Block",
-    "unblock": "Unblock",
     "successfully_blocked_user": "Successfully blocked {{userName}}.",
     "successfully_unblocked_user": "Successfully unblocked {{userName}}.",
     "are_you_sure_you_want_to_block": "Are you sure you want to block {{userName}}?",
     "are_you_really_sure_you_want_to_block_user_they_will_no_longer_see_you_on_syrf_and": "Are you really sure you want to block {{userName}}, they will no longer be able to see you on SYRF.",
     "interests": "Interests",
     "groups_and_organizations": "Groups and Organizations",
-    "about": "About",
     "trending_followers_text": "{{numberOfFollowers}} followers in the last 48h",
     "pending_follow_requests": "Pending follow requests"
   },
@@ -1336,7 +1297,6 @@
     "link": "Link",
     "successfully_linked_this_credential_to_your_account": "Successfully linked this credential to your account.",
     "username": "Username",
-    "source": "Source",
     "username_is_required": "Username is required.",
     "password_is_required": "Password is required.",
     "there_is_something_wrong_with_your_credential": "There is something wrong with your credential, please try again.",
