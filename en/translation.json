@@ -40,8 +40,8 @@
     "search_performed_no_result_found": "Searched for {{keyword}}, no result found.",
     "successfully_registered_to_join_this_competition": "Successfully registered to join this competition.",
     "register_as_captain": "Register as Captain",
-    "live_and_upcoming_races": "Live and upcoming races.",
-    "live_and_upcoming_events": "Live and Upcoming Events",
+    "live_and_upcoming_races": "Live and upcoming Races.",
+    "live_and_upcoming_events": "Live and Upcoming Events.",
     "miles": "miles",
     "nmi": "NMi",
     "there_are_no_live_or_upcoming_races": "There are no live or upcoming races or events, please extend the filter to discover more."
@@ -99,16 +99,6 @@
     }
   },
   "login_page": {
-    "email": {
-      "label": "Email",
-      "email_validate": "Your input must be an email",
-      "required_validate": "Email is required"
-    },
-    "password": {
-      "label": "Password",
-      "password_validate": "Your password must be at least 6 characters and max 15 characters",
-      "required_validate": "Password is required"
-    },
     "login": "Log In",
     "login_message": "Logging you in....",
     "login_error": "Cannot log you in at the moment.",
@@ -211,7 +201,7 @@
     "danger_zone": "Danger Zone",
     "delete_my_account": "Delete My Account",
     "you_will_delete_your_account_along_with_all_associated_information": "You will delete your account along with all associated information.",
-    "permantly_delete_my_account": "Permantly delete my account",
+    "permanently_delete_my_account": "Permanently delete my account",
     "account_information": "Account Information",
     "account_settings": "Account Settings",
     "password_security": "Password & Security",
@@ -268,9 +258,7 @@
     "developer_description": "Don’t forget to get your developer token by following the instructions in the developer documentation. You should also join our <a target='blank' href='https://discord.com/invite/EfvufEsDua'>Discord group for support!</a> ",
     "visit_developer_documentation": "Visit Developer Documentation",
     "emergency_contact": "Emergency Contact",
-    "passport_issuing_country": "Passport Issuing Country",
-    "successfully_linked_your_instagram_account": "Successfully linked your Instagram account!",
-    "successfully_linked_your_facebook_account": "Successfully linked your Facebook account!"
+    "passport_issuing_country": "Passport Issuing Country"
   },
   "not_found_page": {
     "page_not_found": "Page not found",
@@ -731,9 +719,6 @@
     "vessels": "My Boats",
     "create_a_new_vessel": "Create A New Boat",
     "vessel_are_yatchs": "Boats are yachts, dinghies, boards, or other vehicles that you sail on the water.",
-    "the_number_of_boats_must_be_greater_than_zero": "The number of boats must be greater than zero and must be a valid number.",
-    "the_number_of_boats_must_not_more_than_30": "The number of boats must not more than 30.",
-    "the_number_of_boats_must_be_a_number": "The number of boats must be a number.",
     "successfully_created_vessels": "Successfully created {{number_of_vessels}} boats.",
     "role": "Role",
     "admin": "Admin",
@@ -800,9 +785,7 @@
     "remove_photo": "Remove Photo",
     "remove_deck_plan": "Remove Deck Plan",
     "remove_hull_diagram": "Remove Hull Diagram",
-    "are_you_sure_you_want_to_remove_boat_photo": "Are you sure you want to remove boat's photo?",
-    "are_you_sure_you_want_to_remove_deck_plan": "Are you sure you want to remove deck plan?",
-    "are_you_sure_you_want_to_remove_hull_diagram": "Are you sure you want to remove hull diagram?",
+    "are_you_sure_you_want_to_remove": "Are you sure you want to remove {{field}}?",
     "not_verified": "Not verified",
     "verified": "Verified",
     "verify": "Verify",
@@ -1088,8 +1071,7 @@
     "please_fill_out_this_field": "Please fill out this field.",
     "please_input_between": "{{field}} must be between {{min}} and {{max}} characters",
     "none": "None",
-    "email_must_not_contain_blank": "Email must not contain blank space.",
-    "password_must_not_contain_blank": "Password must not contain blank space."
+    "must_not_contain_blank": "{{field}} must not contain blank space."
   },
   "expedition_server_actions": {
     "race_udp_server_detail": "Race UDP server detail",
