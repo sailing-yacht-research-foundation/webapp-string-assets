@@ -367,7 +367,8 @@
     "are_you_sure_you_want_to_claim_track": "Are you sure you want to claim {{participantName}}'s track?",
     "successfully_claimed_track": "Successfully claimed {{participantName}}'s track",
     "we_are_processing_data" : "Hey there! We are processing data for this race.",
-    "it_will_take_some_time_to_process_this_race": "It will take some time to process this race until you can watch it, but no worries, we will play this race right away when it's available."
+    "it_will_take_some_time_to_process_this_race": "It will take some time to process this race until you can watch it, but no worries, we will play this race right away when it's available.",
+    "select_layers": "Select Layers"
   },
   "general": {
     "your_session_is_expired": "Your session is expired, please login again.",
