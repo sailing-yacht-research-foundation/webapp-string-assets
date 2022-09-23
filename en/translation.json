@@ -912,7 +912,7 @@
     "this_event_is_free_and_has_entrance_price_zero": "This event is free and has entrance price is zero",
     "entrance_fee": "Entrance Fee:",
     "free": "Free",
-    "hey_participant_name_this_event_has_participant_fee": "Hey {{participantName}}! This event has a participating fee of {{participatingFee}}, feel free to pay anytime! (SYRF will charge additional 10% of the fee.)",
+    "hey_participant_name_this_event_has_participant_fee": "Hey {{participantName}}! This event has a participating fee of {{participatingFee}}, feel free to pay anytime!",
     "you_already_paid_to_join_this_event": "You already paid for this event.",
     "pay_now":"Pay Now",
     "this_race_is_postponed_therefore_its_start_time_is_not_available": "This race is postponed therefore its start time is not available.",
