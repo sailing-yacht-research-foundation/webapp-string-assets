@@ -312,6 +312,7 @@
     "there_is_a_problem_with_our_server": "There is a problem with our server, please try again later."
   },
   "playback_page": {
+    "gribs": "Gribs",
     "competitor": "Competitor:",
     "coordinate_lat_lon": "Coordinate [lat, lon]",
     "coordinate": "Coordinate",
@@ -368,7 +369,11 @@
     "successfully_claimed_track": "Successfully claimed {{participantName}}'s track",
     "we_are_processing_data" : "Hey there! We are processing data for this race.",
     "it_will_take_some_time_to_process_this_race": "It will take some time to process this race until you can watch it, but no worries, we will play this race right away when it's available.",
-    "select_layers": "Select Layers"
+    "select_layers": "Select Layers",
+    "model_name": "Model Name",
+    "variables": "Variables",
+    "model": "Model",
+    "levels": "Levels"
   },
   "general": {
     "your_session_is_expired": "Your session is expired, please login again.",
@@ -1057,7 +1062,8 @@
     "click_to_move_to_participant_name": "Click to move to {{participantName}} location",
     "export_competitors_info_along_with_their_shared_information": "Export competitors` information along with their shared information to a CSV file.",
     "your_new_email": "Your New Email",
-    "confirm_new_email": "Confirm New Email"
+    "confirm_new_email": "Confirm New Email",
+    "show_grib_files": "Show Gribs files"
   },
   "forms": {
     "external_url_is_not_a_valid_url": "Please input a valid URL.",
