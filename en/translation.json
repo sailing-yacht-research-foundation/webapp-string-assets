@@ -494,7 +494,10 @@
     "successfully_left_the_event": "Successfully left the event.",
     "leave_event_button": "Unregister",
     "sail_number":"Sail Number",
-    "type":"Type"
+    "type":"Type",
+    "clone_event": "Clone event",
+    "clone_event_name":"Clone {{name}}",
+    "new_name": "New Name"
   },
   "competition_unit_list_page": {
     "location": "Location",
