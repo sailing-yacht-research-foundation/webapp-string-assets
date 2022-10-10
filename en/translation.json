@@ -360,7 +360,7 @@
     "click_to_change_time_format": "Click to change time format.",
     "this_race_is_postponed_please_come_back_later": "This race is postponed please come back later or contact the organizer for updates.",
     "race_is_completed": "Race is completed",
-    "this_race_is_completed": "This race is completed, Please close this modal to load the replay.",
+    "this_race_is_completed": "This race is completed. Please close this modal to load the replay.",
     "click_here_for_replay": "Click here for replay",
     "race_is_canceled": "Race is canceled",
     "this_race_is_canceled_by_the_organizer": "This race is canceled, please contact the organizer for more information.",
@@ -494,7 +494,10 @@
     "successfully_left_the_event": "Successfully left the event.",
     "leave_event_button": "Unregister",
     "sail_number":"Sail Number",
-    "type":"Type"
+    "type":"Type",
+    "clone_event": "Clone event",
+    "clone_event_name":"Clone {{name}}",
+    "new_name": "New Name"
   },
   "competition_unit_list_page": {
     "location": "Location",
